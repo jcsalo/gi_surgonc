@@ -3,7 +3,7 @@
     "path": "~/Work/gi_cancer_tx/01-intro.Rmd",
     "project_path": "01-intro.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2125052299",
     "contents": "",
     "dirty": false,
     "created": 1610833477118.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "35,0",
-        "scrollLine": "14"
+        "cursorPosition": "44,178",
+        "scrollLine": "18"
     },
     "folds": "",
-    "lastKnownWriteTime": 1611224674,
+    "lastKnownWriteTime": 1611282937,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1611224674820,
+    "last_content_update": 1611282937875,
     "read_only": false,
     "read_only_alternatives": []
 }
