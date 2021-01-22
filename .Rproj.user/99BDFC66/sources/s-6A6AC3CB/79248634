@@ -3,7 +3,7 @@
     "path": "~/Work/gi_cancer_tx/_bookdown.yml",
     "project_path": "_bookdown.yml",
     "type": "yaml",
-    "hash": "253182955",
+    "hash": "2733065253",
     "contents": "",
     "dirty": false,
     "created": 1610833092761.0,
@@ -11,14 +11,16 @@
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "2,17",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1610833086,
+    "lastKnownWriteTime": 1611280369,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1610833086,
+    "last_content_update": 1611280369066,
     "read_only": false,
     "read_only_alternatives": []
 }
