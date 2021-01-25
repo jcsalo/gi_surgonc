@@ -1,5 +1,5 @@
 --- 
-title: "Esophageal Cancer Staging and Treatment"
+title: "Gastroesophageal Cancer Staging and Treatment"
 author: "Jonathan C Salo MD"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -10,9 +10,7 @@ link-citations: yes
 description: "This is an abbreviated (and opinionated) approach to esophageal cancer staging and treatment, designed to provide practical guidance"
 ---
 
-# Prerequisites {-}
-
-
+# Introduction {-}
 
 ```{r eval=FALSE, echo=F}
 install.packages("bookdown")
@@ -27,3 +25,5 @@ knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
 ```
+
+This is an abbreviated guide to treatment protocols at the Levine Cancer Institute. They are designed to provide referring physicians and our trainees with general guidelines.  In most cases, these cases are best cared for in a multi-disciplinary environment. Caring for patients with GI cancers is clearly a 'team support' making use of the wisdom and experience of a broad-based teams of practitioners. These guidelines are not presented as 'Standard of Care.' Readers interested in 'Standard of Care' treatment protocols are referred to the National Comprehensive Cancer Network (NCCCN) Guidlines, which can be found at NCCN.org.

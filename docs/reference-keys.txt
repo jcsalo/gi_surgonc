@@ -1,6 +1,4 @@
-fig:nice-fig
-tab:nice-tab
-intro
+EsoIntro
 t1
 t2n0
 surgery
@@ -9,7 +7,7 @@ methods
 locally-advanced-cancer
 minimally-invasive-esophagectomy
 example-two
-final-words
+metastatic-disease
 surgery-1
 minimally-invasive-esophagectomy-1
 transthoracic
