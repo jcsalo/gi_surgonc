@@ -1,1 +1,5 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/home/about/ for how to compile this example.
+This is a brief overview of staging and treatement of esophageal and gastroesophageal junction tumors.
+
+
+Jonathan C Salo MD
+jonathan.salo at atriumhealth dot org

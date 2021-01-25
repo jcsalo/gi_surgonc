@@ -6,13 +6,13 @@ t2n0
 surgeryxie2015
 literature
 methods
-surgery
+locally-advanced-cancer
 minimally-invasive-esophagectomy
 example-two
-surgery-1
+final-words
+surgery
 minimally-invasive-esophagectomy-1
 transthoracic
 transhiatal
 three-hole
 extended-lymphadenectomy
-final-words
