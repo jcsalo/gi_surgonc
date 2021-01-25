@@ -9,8 +9,6 @@ Endoscopic therapy likely sufficient[Pech Gastroenterology  2014 146:652]
 See MOlina JTCVS 153:1206
 
 
-[@R-rmarkdown]
-
 ## T2N0
 
 Neoadjuvant chemo not likey to be helpful for early stage disease - FFCD 9901 [Mariette 2416]
@@ -20,7 +18,7 @@ Meta-analysis of 5265 patients in 10 studies showed that while neoadjuvant thera
 French trial FREGAT[Markar 59]
 [Speicher 1195]
 
-## Surgery[@xie2015]
+## Surgery
 
 High volume  Birkmeyer 2117;Wouters 1789;dikken 4068
 
@@ -42,4 +40,3 @@ knitr::kable(
 )
 ```
 
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].

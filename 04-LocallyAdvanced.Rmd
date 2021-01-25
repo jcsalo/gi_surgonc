@@ -4,6 +4,6 @@ Some _significant_ applications are demonstrated in this chapter.
 
 ## Minimally-invasive Esophagectomy
 
-Higher lymph node yield with MIE vs open approach [Kalff]
+Higher lymph node yield with MIE vs open approach [@kalffLongTermSurvivalMinimally2020]
 
 ## Example two

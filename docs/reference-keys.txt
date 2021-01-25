@@ -3,14 +3,14 @@ tab:nice-tab
 intro
 t1
 t2n0
-surgeryxie2015
+surgery
 literature
 methods
 locally-advanced-cancer
 minimally-invasive-esophagectomy
 example-two
 final-words
-surgery
+surgery-1
 minimally-invasive-esophagectomy-1
 transthoracic
 transhiatal
