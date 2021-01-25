@@ -7,7 +7,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">GI Cancer Treatment Protocols</a></li>
       after: |
-        <li><a href="https://atriumhealth.org/for-providers/salo-jonathan" target="blank">Published with bookdown</a></li>
+        <li><a href="https://atriumhealth.org/for-providers/salo-jonathan" target="blank">Jonathan C Salo MD</a></li>
       search: yes
       sharing:
         linkedin: yes
