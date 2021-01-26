@@ -2,6 +2,7 @@ EsoIntro
 t1
 t2n0
 surgery
+preoperative-evaluation
 literature
 methods
 locally-advanced-cancer
