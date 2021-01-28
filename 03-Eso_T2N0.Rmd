@@ -1,0 +1,12 @@
+# T2N0 Tumors
+
+
+
+Neoadjuvant chemo not likey to be helpful for early stage disease - FFCD 9901 [Mariette 2416]
+Meta-analysis of 5265 patients in 10 studies showed that while neoadjuvant therapy was associated with a reduction in positive margin rate, there was no difference in terms of recurrence or survival.[MOta 176]
+
+
+French trial FREGAT[@Markar59]
+[Speicher 1195]
+
+A retrospective report from Johns Hopkins examined outcomes of T2N0 squamous cell carcinoma patients and showed equivalent outcomes for primary surgery vs neoadjuvant chemoradiation followed by surgery [@zhang429]

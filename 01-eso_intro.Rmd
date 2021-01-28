@@ -51,20 +51,14 @@ PET can be helpful in evaluating patients who may have T1-2 disease, and might b
 
 ## T1
 
-Endoscopic therapy likely sufficient[Pech Gastroenterology  2014 146:652]
+Endoscopic therapy is likely sufficient for small esophageal cancers which can be excised with negative margins.[Pech Gastroenterology  2014 146:652] Endoscopic musocal resection can be performed for nodular Barrett's esophagus, in which case it is both diagnostic and potentially curative.
+
+
+Endoscopic therapy likely sufficient
 
 See MOlina JTCVS 153:1206
 
 
-
-## T2N0
-
-Neoadjuvant chemo not likey to be helpful for early stage disease - FFCD 9901 [Mariette 2416]
-Meta-analysis of 5265 patients in 10 studies showed that while neoadjuvant therapy was associated with a reduction in positive margin rate, there was no difference in terms of recurrence or survival.[MOta 176]
-
-
-French trial FREGAT[Markar 59]
-[Speicher 1195]
 
 ## Surgery
 
