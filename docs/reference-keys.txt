@@ -1,9 +1,11 @@
 EsoIntro
+diagnostic-evaluation
+initial-evaluation
 t1
 t2n0
 surgery
 preoperative-evaluation
-literature
+superficial-esophageal-cancer
 methods
 locally-advanced-cancer
 minimally-invasive-esophagectomy
