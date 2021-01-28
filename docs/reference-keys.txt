@@ -4,7 +4,7 @@ intro
 t1
 t2n0
 surgery
-literature
+superficial-esophageal-cancer
 methods
 locally-advanced-cancer
 minimally-invasive-esophagectomy
