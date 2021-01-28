@@ -1,0 +1,53 @@
+# Esophageal Cancer {#EsoIntro}
+
+For the purposes of this guide, treatment of esophageal cancer can be grouped into several broad categories:
+
+- Endoscopic therapy (superficial tumors)
+- Primary surgery (localized tumors)
+- Trimodality therapy (locally-advanced tumors)
+- Systemic therapy (metastatic or unresectable tumors)
+
+The diagnostic studies needed for these treatment groups are different, so the workup can be make more efficient by sorting patients at presentation in to two groups:
+
+Superficial and Localized tumors generally present with minimal dysphagia or weight loss.  These tumors may present with bleeding, or with dysphagia without weight loss.  For these patients, determining the precise T stage is important in their workup, so **endoscopic ultrasound** is the most frequent staging study after diagnosis.
+
+Locally-advanced or metastatic tumors tend to present with dysphagia and weight loss. At first approximation, these tumors are usually clinical T3 lesions, and the important bifurcation in their treatment is the presence or absence of metastatic disease.  For patients with dysphagia and weight loss, **PET** is the most frequent initial staging study after diagnosis.
+
+
+Patients who present with dysphagia are likely to have T3 or T4 disease, which is generally treated with neoadjuvant chemoradiation followed by surgery.  Data from Memorial Sloan Kettering [Ripley 226] among 61 patients with esophageal cancer who presented with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors. On the other hand, among 53 patients without dysphagia, 25 (47%) were uT1-2, and were potentially candidates for primary surgery.  Their conclusion was that EUS could be omitted from the workup of patients with dysphagia, but is useful in patients without dysphagia.
+
+PET can be helpful in evaluating patients who may have T1-2 disease, and might be candidates for primary surgical therapy. A comparison of PET and EUS [malik,claxton,1] showed that uT1-2 tumors had median metabolic tumor volume (MTV) of 6.7cm^3^, compared with uT3-4 tumors, with a median SUV of 35.7cm^3^.
+
+## T1
+
+Endoscopic therapy likely sufficient[Pech Gastroenterology  2014 146:652]
+
+See MOlina JTCVS 153:1206
+
+
+
+## T2N0
+
+Neoadjuvant chemo not likey to be helpful for early stage disease - FFCD 9901 [Mariette 2416]
+Meta-analysis of 5265 patients in 10 studies showed that while neoadjuvant therapy was associated with a reduction in positive margin rate, there was no difference in terms of recurrence or survival.[MOta 176]
+
+
+French trial FREGAT[Markar 59]
+[Speicher 1195]
+
+## Surgery
+
+High volume  Birkmeyer 2117;Wouters 1789;dikken 4068
+
+You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+
+### Preoperative Evaluation
+
+Dysphagia can be scored accordgin to Mellow et al [Mellow 1443]:
+
+ - 0 No dysphagia
+ - 1 Dysphagia to normal solids
+ - 2 Dysphagia to soft solids (ground beef, poultry,fish)
+ - 3 Dysphagia to solids and liquids
+ - 4 Inability to swallow saliva
+
