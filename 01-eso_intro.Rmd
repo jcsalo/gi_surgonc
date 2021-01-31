@@ -70,27 +70,3 @@ EMR is likely sufficient for small tumors with favorable patholgic factors:
 See MOlina JTCVS 153:1206
 
 
-## Surgery
-
-Three general approaches exist for surgical therapy.
-
-Trans-thoracic or Ivor Lewis esophagectomy removes the intrathoracic portion of the esophagus and constructs an anastomosis within the chest.  The approach include an abdominal phase, during which an esophageal substitute is constructed (usually from stomach). A thoracic phase then removes the intrathoracic esophagus and constructs an anastomosis within the chest cavity.
-
-A transhiatal esohpagectomy approaches the esophagus from the abdomen through the hiatus and from neck.  By blunt dissection the esophagus is freed up without the need for thoracotomy.  An esophageal substute is then brought from the 
-
-High volume  Birkmeyer 2117;Wouters 1789;dikken 4068
-
-
-
-
-
-### Preoperative Evaluation
-
-Dysphagia can be scored accordgin to Mellow et al [Mellow 1443]:
-
- - 0 No dysphagia
- - 1 Dysphagia to normal solids
- - 2 Dysphagia to soft solids (ground beef, poultry,fish)
- - 3 Dysphagia to solids and liquids
- - 4 Inability to swallow saliva
-

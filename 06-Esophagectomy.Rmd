@@ -1,7 +1,5 @@
 # Surgery
 
-## Surgery
-
 Three general approaches exist for surgical therapy.
 
 Trans-thoracic or Ivor Lewis esophagectomy[@visbal1803] removes the intrathoracic portion of the esophagus and constructs an anastomosis within the chest.  The approach include an abdominal phase, during which an esophageal substitute is constructed (usually from stomach). A thoracic phase then removes the intrathoracic esophagus and constructs an anastomosis within the chest cavity.
