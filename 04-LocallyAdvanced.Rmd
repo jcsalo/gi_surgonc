@@ -6,4 +6,32 @@ Some _significant_ applications are demonstrated in this chapter.
 
 Higher lymph node yield with MIE vs open approach [@kalffLongTermSurvivalMinimally2020]
 
-## Example two
+## Trimodality Therapy
+
+Trimodality therapy consists of chemoradiation followed by surgery.  
+
+CROSS trial randomized patients with resectable esophageal and gastroesophageal junction tumors to neoadjuvant chemoradiation consisting of 4,140 cGy of radiation with concurrent carboplatin and paclitaxel or surgery alone.[@vanhagen2074] Pathologic complete response was seen in 18% of adenocarcinoma and XX% of squamous cell carcinomas. Median overall survival was 49 months after trimodality vs 24 months after surgery alone. Squamous cell carcinomas appeared to have particular benefit, with a hazard ratio of 0.42 for sqamous cell vs 0.74 for adenocarcinoma.  This translated into a survival difference at 5 years of ___ vs ___ for squamous cell, compared with ___ vs ___ for adenocarcinoma. Despite the relatively low dose of radiation, in-field recurrences were less than 5%. The primary cause of failure was distant disease (31%) and local/regoinal failure (14%).[@oppedijk385]
+
+## Definitive chemoradiation vs Trimodality therapy
+
+Stahl Locally advaced squamous cell carcinoma radomized to induction chemotherapy (cisplatin, etopiside, 5FU with leuocovrin) followed by chemoradiation (4000cGy with concurrent ciplatin and etopiside) followed by surgery compared with induction chemotherapy folowed by chemoradiation (6400cGy with concurrent cisplatin and etopiside).[@stahl2310]  Treatment-related morality was substantial in the surgery arm (13% vs 4%). This would be considered an excessive rate of operative mortality by modern standards.  Unsuprisingly, there was no difference in overall survival between groups, in part because the surgical group had an excess 9% mortality rate from treatment. Two-year survival in the surgery arm was 40% vs 35% in the definitive chemoradiation arm. 
+
+In the French FFCD tria, 444 patients with carcinoma of the esophagus (90% squamous cell) were treated with two cycles of 5-FU and cisplatin with concurrent radiation.[@bedenne1160]  Patients with a partial or complete clinical response to chemoradiation were randomized to either surgery or a boost of radiation. Patients who did not respond to chemoradiation were treated with surgery and were eliminated from the study.  Only 259 of the original 444 patients (59%) went on to randomization, with the remainder (those not responding to chemoradiation) treated with surgery.  Of the randomized group, median survival was 17.7months in the surgery arm versus 19.3months in the definitive chemoradiation arm. Like the Stahl study, treatment-related mortality in the surgical arm was high (9% versus 1%). 
+
+### Neoadjuvant chemotheraphy followed by surgery
+
+POET Trial (Pre-Operataive therapy in Esophageal adenocarcinoma Trial) treated patients with adenocarcinoma of the gastroesophageal junction with either neoadjuvant chemotherapy (5-FU, leucovorin, cisplatin) followed by surgery or induction chemotherapy with the same agents, followed by chemoradiation (4000cGy with concurrent cisplatin and etoposide).  The study failed to meet its accrual goal, but there was a suggestion of improved 3-year survival with preoperative chemoradiation (47.4% vs 27.7% *p*=0.07).[@stahl851].  A meta-analysis of 33 randomized trials further suggested a greater benefit from neoadjuvant chemoradiation followed by surgery compared with neoajuvant chemotherapy followed by surgery[@pasquali481]
+
+
+
+
+## Palliative radiation
+
+Palliative radiation vs chemoradiation [@penniment114]
+
+Radiation along favored over chemoradiation in the palliaitve setting [@penniment114]
+
+
+## Chemoradiation vs chemotherapy in Stage IV
+
+[@guttman1134]

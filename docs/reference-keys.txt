@@ -8,7 +8,11 @@ superficial-esophageal-cancer
 t2n0-tumors
 locally-advanced-cancer
 minimally-invasive-esophagectomy
-example-two
+trimodality-therapy
+definitive-chemoradiation-vs-trimodality-therapy
+neoadjuvant-chemotheraphy-followed-by-surgery
+palliative-radiation
+chemoradiation-vs-chemotherapy-in-stage-iv
 metastatic-disease
 surgery-1
 minimally-invasive-esophagectomy-1
@@ -22,6 +26,10 @@ transthoracic-1
 transhiatal-1
 three-hole-1
 extended-lymphadenectomy-1
+ajcc-staging
+t-stage
+n-stage
+anatomic-location
 surgery-3
 minimally-invasive-esophagectomy-3
 transthoracic-2

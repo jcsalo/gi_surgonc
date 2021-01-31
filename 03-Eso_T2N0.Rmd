@@ -1,12 +1,38 @@
 # T2N0 Tumors
 
-
+Multiple studies have failed to show the additional benefit of chemotherapy or chemoradiation for pT2N0M0 esophageal cancer patients treated with radiation.
 
 Neoadjuvant chemo not likey to be helpful for early stage disease - FFCD 9901 [Mariette 2416]
 Meta-analysis of 5265 patients in 10 studies showed that while neoadjuvant therapy was associated with a reduction in positive margin rate, there was no difference in terms of recurrence or survival.[MOta 176]
 
 
-French trial FREGAT[@Markar59]
-[Speicher 1195]
+French trial FREGAT[@sarkar59]
+
+Retrospective review of the National Cancer DataBase failed to demonstrate a difference in survival of cT2N0M0 esophageal cancer with or without preoperative chemoradiation.[@speicher1195]
 
 A retrospective report from Johns Hopkins examined outcomes of T2N0 squamous cell carcinoma patients and showed equivalent outcomes for primary surgery vs neoadjuvant chemoradiation followed by surgery [@zhang429]
+
+
+
+The challenge for treatment decision-making is the limited sensitivity of endoscopic ultrasound in ruling out pT3 or pN+ disease.  In other words, if a patient who is thought to have cT2N0 disease undergoes resection, and is found on pathology to have pT3 or pN^+^ disease, this would dictate the need for postoperative chemoradiation. In general, chemoradiation after esophagectomy is difficult for patients to tolerate, with a ___ % chance of failure to complete therapy.
+
+It is critical, therefore, in patients for whom primary surgery is contemplated, to attempt to identify those with occult T3 or N+ disease.
+
+Patients who appear to have limited stage disease benefit from evaluation with a combination of 
+
+(MTV)
+
+(Tumor Length)
+
+(dysphagia)
+
+
+NCCN recommends PET scanS
+
+Most common sites of metastasis are liver, lung, bones, adrenal.
+
+PET detects occult metastasis in 10-20% of cases [@kato921,@kim403]. Among 129 patients with esophageal cancer, PET detected additional sites of disease in 41% and changed management in 38% [@chatterton354]
+
+
+PET for restaging detects interval development of metastatic disease in 8-17% of cases [@vanvliet547]
+
