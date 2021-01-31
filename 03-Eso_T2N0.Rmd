@@ -2,11 +2,13 @@
 
 Multiple studies have failed to show the additional benefit of chemotherapy or chemoradiation for pT2N0M0 esophageal cancer patients treated with radiation.
 
-Neoadjuvant chemo not likey to be helpful for early stage disease - FFCD 9901 [Mariette 2416]
+Neoadjuvant chemo not likey to be helpful for early stage disease - FFCD 9901 [Mariette 2416] enrolled patients with T1-2 or T3N0 tumors to chemoradiation followed by surgery versus surgery alone. The majority of the tumors (72%) were squamous cell carcinoma.Postoperative mortality was significaly increased in the chemoradiation arm (11.1% vs 3.4%).
+
+
 Meta-analysis of 5265 patients in 10 studies showed that while neoadjuvant therapy was associated with a reduction in positive margin rate, there was no difference in terms of recurrence or survival.[MOta 176]
 
 
-French trial FREGAT[@sarkar59]
+French trial FREGAT[@markar59]
 
 Retrospective review of the National Cancer DataBase failed to demonstrate a difference in survival of cT2N0M0 esophageal cancer with or without preoperative chemoradiation.[@speicher1195]
 
@@ -15,6 +17,8 @@ A retrospective report from Johns Hopkins examined outcomes of T2N0 squamous cel
 
 
 The challenge for treatment decision-making is the limited sensitivity of endoscopic ultrasound in ruling out pT3 or pN+ disease.  In other words, if a patient who is thought to have cT2N0 disease undergoes resection, and is found on pathology to have pT3 or pN^+^ disease, this would dictate the need for postoperative chemoradiation. In general, chemoradiation after esophagectomy is difficult for patients to tolerate, with a ___ % chance of failure to complete therapy.
+
+Data from the Cleveland Clinic looked at 82 patients judged to be T2N0 by endoscopic ultrasound (uT2N0). All patient underwent primary surgery. Pathologic examination showed at -__/___ (xx%) were understaged by endoscopic ultrasound, and were pathologic (pT3) or node positive (pN^+^). These patients were treated with postoperative adjuvant chemoradiation.[@rice]
 
 It is critical, therefore, in patients for whom primary surgery is contemplated, to attempt to identify those with occult T3 or N+ disease.
 

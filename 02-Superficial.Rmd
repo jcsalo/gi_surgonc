@@ -3,3 +3,5 @@
 EMR for high-grade dysplasia [@shaheen2277]
 
 EMR for low-grade dysplasia [@phoa1209] resulted in 25% riskd reduction in progression go HGD.
+
+Endoscopic submucosal dissection is a technique for deeper endoscopic removal of esophageal lesions using endoscopic cautery, which dissects through the submucosa. ESD has a higher rate of curative resection [@cao751] albiet at the cost of prolonged operative times and increased risk of complications such a bleeding. 

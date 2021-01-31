@@ -17,7 +17,7 @@ For the purposes of this guide, treatment of esophageal cancer can be grouped in
 Patients with minimal dysphagia, no weight loss, and small (<3cm length) tumors can be evaluated with endoscopic ultrasound:
 
  - If uT1 on EUS and <2cm in size, endoscopic mucosal resection yields more information and may be therapeutic for tumors excised with EMR with negative margins and without high-risk features.
- - If uT2N0 on EUS, and PET scan shows a small tumor (MTV <10cm^3), primary surgery is reasonable in patients who are good surgical risks
+ - If uT2N0 on EUS, and PET scan shows a small tumor (MTV <10cm^3^), primary surgery is reasonable in patients who are good surgical risks
  - If T3 or N+ on EUS, if PET shows no metastatic disease, trimodality therapy (chemoradiation followed by surgery is optimal)
  
  Patients with dysphagia to solids or weight loss or tumor length >3cm are unlikely to have T1-2 tumors and can be evaluated with PET scan.
@@ -44,7 +44,7 @@ The first step is to make a preliminary determination whether the tumor is early
 
 The diagnostic studies needed for these treatment groups are different, so the workup can be make more efficient by sorting patients at presentation in to two groups:
 
-Patients with minimal dysphagia, no weight loss, and tumors with less than 3cm cranio-caudal extent have a reasonable change of being T1 or T2 tumors. Tumors <3cm in length are much more likely to represent T1-2 lesions than those $\geq$3cm[Hollis 1116]
+Patients with minimal dysphagia, no weight loss, and tumors with less than 3cm cranio-caudal extent have a reasonable change of being T1 or T2 tumors. Tumors <3cm in length are much more likely to represent T1-2 lesions than those $\geq$ 3cm[@hollis1116]
  
 Superficial and Localized tumors generally present with minimal dysphagia or weight loss.  These tumors may present with bleeding, or dysphagia without weight loss.  For these patients, determining the precise T stage is important in their workup, so **endoscopic ultrasound** is the most frequent staging study after diagnosis.
 
@@ -57,20 +57,32 @@ PET can be helpful in evaluating patients who may have T1-2 disease, and might b
 
 ## T1
 
-Endoscopic therapy is likely sufficient for small esophageal cancers which can be excised with negative margins.[Pech Gastroenterology  2014 146:652] Endoscopic musocal resection can be performed for nodular Barrett's esophagus, in which case it is both diagnostic and potentially curative.
+For patients with nodular Barrett's esophagus or small tumors judged to be T1 by endoscopic ultrasound, endoscopic mucosal resection (EMR) can be diagnostic and potentially curative.[@pech652]<!--Pech Gastroenterology  2014 146:652 -->
 
 
-Endoscopic therapy likely sufficient
+EMR is likely sufficient for small tumors with favorable patholgic factors:
+
+- Size less than
+- Lateral and deep margins clear
+- Absence of lymphovascular invasion
+- Well- or moderately- differentiated
 
 See MOlina JTCVS 153:1206
 
 
-
 ## Surgery
+
+Three general approaches exist for surgical therapy.
+
+Trans-thoracic or Ivor Lewis esophagectomy removes the intrathoracic portion of the esophagus and constructs an anastomosis within the chest.  The approach include an abdominal phase, during which an esophageal substitute is constructed (usually from stomach). A thoracic phase then removes the intrathoracic esophagus and constructs an anastomosis within the chest cavity.
+
+A transhiatal esohpagectomy approaches the esophagus from the abdomen through the hiatus and from neck.  By blunt dissection the esophagus is freed up without the need for thoracotomy.  An esophageal substute is then brought from the 
 
 High volume  Birkmeyer 2117;Wouters 1789;dikken 4068
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+
+
+
 
 ### Preoperative Evaluation
 
