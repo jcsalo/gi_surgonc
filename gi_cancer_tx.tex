@@ -1,0 +1,493 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+  \usepackage{amssymb}
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={R Notebook},
+  pdfauthor={Jonathan C Salo MD},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+
+\title{R Notebook}
+\author{Jonathan C Salo MD}
+\date{2021-02-02}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{introduction}{%
+\chapter*{Introduction}\label{introduction}}
+\addcontentsline{toc}{chapter}{Introduction}
+
+This is an abbreviated guide to treatment protocols at the Levine Cancer Institute. They are designed to provide referring physicians and our trainees with general guidelines. In most cases, these cases are best cared for in a multi-disciplinary environment. Caring for patients with GI cancers is clearly a `team support' making use of the wisdom and experience of a broad-based teams of practitioners. These guidelines are not presented as `Standard of Care.' Readers interested in `Standard of Care' treatment protocols are referred to the National Comprehensive Cancer Network (NCCCN) Guidlines, which can be found at NCCN.org.
+
+\hypertarget{EsoIntro}{%
+\chapter{Esophageal Ca Overview}\label{EsoIntro}}
+
+For the purposes of this guide, treatment of esophageal cancer can be grouped into four categories:
+
+\begin{itemize}
+\tightlist
+\item
+  Endoscopic therapy (superficial tumors T1)
+\item
+  Primary surgery (localized tumors T2N0)
+\item
+  Trimodality therapy (locally-advanced tumors T3 or N+)
+\item
+  Systemic therapy (metastatic or unresectable tumors M1)
+\end{itemize}
+
+Patients with minimal dysphagia, no weight loss, and small (\textless3cm length) tumors can be evaluated with endoscopic ultrasound:
+
+\begin{itemize}
+\tightlist
+\item
+  If uT1 on EUS and \textless2cm in size, endoscopic mucosal resection yields more information and may be therapeutic for tumors excised with EMR with negative margins and without high-risk features.
+\item
+  If uT2N0 on EUS, and PET scan shows a small tumor (MTV \textless10cm\textsuperscript{3}), primary surgery is reasonable in patients who are good surgical risks
+\item
+  If T3 or N+ on EUS, if PET shows no metastatic disease, trimodality therapy (chemoradiation followed by surgery is optimal)
+\end{itemize}
+
+Patients with dysphagia to solids or weight loss or tumor length \textgreater3cm are unlikely to have T1-2 tumors and can be evaluated with PET scan.
+
+\begin{itemize}
+\tightlist
+\item
+  If PET shows disease confined to the esophagus and regional nodes, trimodality therapy (chemoradiation followed by surgery) is optimal.
+\item
+  If PET shows metastatic disease, patients are eligible for palliative chemotherapy with radiation for treatment of symptoms of dysphagia.
+\item
+  If PET shows extra-regional lymph node disease, patient is at high risk for distant disease and can be treated with induction chemotherapy followed by chemoradiation and surgical evaluation.
+\end{itemize}
+
+\hypertarget{diagnosis}{%
+\chapter{Diagnosis}\label{diagnosis}}
+
+The diagnosis of esophageal cancer is generally made at upper endscopy. Several findings at EGD are important in the subsequent workup and treatment:
+
+\begin{itemize}
+\tightlist
+\item
+  Location of the tumor from the incisors
+\item
+  Length of the tumor
+\item
+  Location of the gastroesophageal junction relative to the tumor
+\item
+  Presence and extent of Barrett's changes
+\item
+  Presence and extent of invasion of tumor into the gastric cardia, particularly along the lesser curvature side. This is best seen with a retroflexed view
+\end{itemize}
+
+\hypertarget{staging}{%
+\chapter{Staging}\label{staging}}
+
+The staging workup begins once a diagnosis is made on endoscopy.
+
+The first step is to make a preliminary determination whether the tumor is early stage (and can be treated with endoscopy or primary surgery) or later stage (and treated with chemoradiation followed by surgery or with)
+
+The diagnostic studies needed for these treatment groups are different, so the workup can be make more efficient by sorting patients at presentation in to two groups:
+
+Patients with minimal dysphagia, no weight loss, and tumors with less than 3cm cranio-caudal extent have a reasonable change of being T1 or T2 tumors. Tumors \textless3cm in length are much more likely to represent T1-2 lesions than those \(\geq\) 3cm\citep{hollis1116}
+
+Superficial and Localized tumors generally present with minimal dysphagia or weight loss. These tumors may present with bleeding, or dysphagia without weight loss. For these patients, determining the precise T stage is important in their workup, so \textbf{endoscopic ultrasound} is the most frequent staging study after diagnosis.
+
+Locally-advanced or metastatic tumors tend to present with dysphagia and weight loss. At first approximation, these tumors are usually clinical T3 lesions, and the important bifurcation in their treatment is the presence or absence of metastatic disease. For patients with dysphagia and weight loss, \textbf{PET} is the most frequent initial staging study after diagnosis.
+
+Patients who present with dysphagia are likely to have T3 or T4 disease, which is generally treated with neoadjuvant chemoradiation followed by surgery. Data from Memorial Sloan Kettering {[}Ripley 226{]} among 61 patients with esophageal cancer who presented with dysphagia, 54 (89\%) were found on EUS to have uT3-4 tumors. On the other hand, among 53 patients without dysphagia, 25 (47\%) were uT1-2, and were potentially candidates for primary surgery. Their conclusion was that EUS could be omitted from the workup of patients with dysphagia, but is useful in patients without dysphagia.
+
+PET can be helpful in evaluating patients who may have T1-2 disease, and might be candidates for primary surgical therapy. A comparison of PET and EUS {[}malik,claxton,1{]} showed that uT1-2 tumors had median metabolic tumor volume (MTV) of 6.7cm\textsuperscript{3}, compared with uT3-4 tumors, with a median SUV of 35.7cm\textsuperscript{3}.
+
+\hypertarget{t1}{%
+\section{T1}\label{t1}}
+
+For patients with nodular Barrett's esophagus or small tumors judged to be T1 by endoscopic ultrasound, endoscopic mucosal resection (EMR) can be diagnostic and potentially curative.\citep{pech652}
+
+EMR is likely sufficient for small tumors with favorable patholgic factors:
+
+\begin{itemize}
+\tightlist
+\item
+  Size less than
+\item
+  Lateral and deep margins clear
+\item
+  Absence of lymphovascular invasion
+\item
+  Well- or moderately- differentiated
+\end{itemize}
+
+See MOlina JTCVS 153:1206
+
+\hypertarget{superficial-esophageal-cancer}{%
+\chapter{Superficial Esophageal Cancer}\label{superficial-esophageal-cancer}}
+
+EMR for high-grade dysplasia \citep{shaheen2277}
+
+EMR for low-grade dysplasia \citep{phoa1209} resulted in 25\% riskd reduction in progression go HGD.
+
+Endoscopic submucosal dissection is a technique for deeper endoscopic removal of esophageal lesions using endoscopic cautery, which dissects through the submucosa. ESD has a higher rate of curative resection \citep{cao751} albiet at the cost of prolonged operative times and increased risk of complications such a bleeding.
+
+\hypertarget{t2n0-tumors}{%
+\chapter{T2N0 Tumors}\label{t2n0-tumors}}
+
+Multiple studies have failed to show the additional benefit of chemotherapy or chemoradiation for pT2N0M0 esophageal cancer patients treated with radiation.
+
+Neoadjuvant chemo not likey to be helpful for early stage disease - FFCD 9901 {[}Mariette 2416{]} enrolled patients with T1-2 or T3N0 tumors to chemoradiation followed by surgery versus surgery alone. The majority of the tumors (72\%) were squamous cell carcinoma.Postoperative mortality was significaly increased in the chemoradiation arm (11.1\% vs 3.4\%).
+
+Meta-analysis of 5265 patients in 10 studies showed that while neoadjuvant therapy was associated with a reduction in positive margin rate, there was no difference in terms of recurrence or survival.{[}MOta 176{]}
+
+French trial FREGAT\citep{markar59}
+
+Retrospective review of the National Cancer DataBase failed to demonstrate a difference in survival of cT2N0M0 esophageal cancer with or without preoperative chemoradiation.\citep{speicher1195}
+
+A retrospective report from Johns Hopkins examined outcomes of T2N0 squamous cell carcinoma patients and showed equivalent outcomes for primary surgery vs neoadjuvant chemoradiation followed by surgery \citep{zhang429}
+
+The challenge for treatment decision-making is the limited sensitivity of endoscopic ultrasound in ruling out pT3 or pN+ disease. In other words, if a patient who is thought to have cT2N0 disease undergoes resection, and is found on pathology to have pT3 or pN\textsuperscript{+} disease, this would dictate the need for postoperative chemoradiation. In general, chemoradiation after esophagectomy is difficult for patients to tolerate, with a \_\_\_ \% chance of failure to complete therapy.
+
+Data from the Cleveland Clinic looked at 82 patients judged to be T2N0 by endoscopic ultrasound (uT2N0). All patient underwent primary surgery. Pathologic examination showed at -\textbf{/}\_ (xx\%) were understaged by endoscopic ultrasound, and were pathologic (pT3) or node positive (pN\textsuperscript{+}). These patients were treated with postoperative adjuvant chemoradiation.\citep{rice}
+
+It is critical, therefore, in patients for whom primary surgery is contemplated, to attempt to identify those with occult T3 or N+ disease.
+
+Patients who appear to have limited stage disease benefit from evaluation with a combination of
+
+(MTV)
+
+(Tumor Length)
+
+(dysphagia)
+
+NCCN recommends PET scanS
+
+Most common sites of metastasis are liver, lung, bones, adrenal.
+
+PET detects occult metastasis in 10-20\% of cases \citep[\citet{kim403}]{kato921}. Among 129 patients with esophageal cancer, PET detected additional sites of disease in 41\% and changed management in 38\% \citep{chatterton354}
+
+PET for restaging detects interval development of metastatic disease in 8-17\% of cases \citep{vanvliet547}
+
+\hypertarget{surgery}{%
+\chapter{Surgery}\label{surgery}}
+
+Some \emph{significant} applications are demonstrated in this chapter.
+
+\hypertarget{minimally-invasive-esophagectomy}{%
+\section{Minimally-invasive Esophagectomy}\label{minimally-invasive-esophagectomy}}
+
+Higher lymph node yield with MIE vs open approach {[}Kalff{]}
+
+\hypertarget{transthoracic}{%
+\section{Transthoracic}\label{transthoracic}}
+
+\hypertarget{transhiatal}{%
+\section{Transhiatal}\label{transhiatal}}
+
+\hypertarget{three-hole}{%
+\section{Three-hole}\label{three-hole}}
+
+\hypertarget{extended-lymphadenectomy}{%
+\section{Extended lymphadenectomy}\label{extended-lymphadenectomy}}
+
+\hypertarget{ajcc-staging}{%
+\section{AJCC Staging}\label{ajcc-staging}}
+
+\hypertarget{t-stage}{%
+\subsection{T Stage}\label{t-stage}}
+
+\begin{itemize}
+\tightlist
+\item
+  Tis: Intraepithelial
+\item
+  T1a:
+\item
+  T1b:
+\item
+  T2: Invasion into but not beyone muscularis propria
+\item
+  T3: Invasion beyond esophageal wall
+\item
+  T4a:Invasion of resectable structures (pleura, diaphragm, pericardium)
+\item
+  T4b: Unresectable due to invasion of trachea or aorta
+\end{itemize}
+
+\hypertarget{n-stage}{%
+\subsection{N Stage}\label{n-stage}}
+
+\begin{itemize}
+\tightlist
+\item
+  N0: No cancer-containing nodes
+\item
+  N1: 1-2 nodes
+\item
+  N2: 3-6 nodes
+\item
+  N3: 7+ nodes
+\end{itemize}
+
+\hypertarget{anatomic-location}{%
+\subsection{Anatomic location}\label{anatomic-location}}
+
+\begin{itemize}
+\tightlist
+\item
+  Upper: Sternal notch to lower border of azygous vein
+\item
+  Middle: Lower border of azygous vein to inferior pulmonary vein
+\end{itemize}
+
+\hypertarget{locally-advanced-cancer}{%
+\chapter{Locally Advanced Cancer}\label{locally-advanced-cancer}}
+
+Some \emph{significant} applications are demonstrated in this chapter.
+
+\hypertarget{minimally-invasive-esophagectomy-1}{%
+\section{Minimally-invasive Esophagectomy}\label{minimally-invasive-esophagectomy-1}}
+
+Higher lymph node yield with MIE vs open approach \citep{kalffLongTermSurvivalMinimally2020}
+
+\hypertarget{trimodality-therapy}{%
+\section{Trimodality Therapy}\label{trimodality-therapy}}
+
+Trimodality therapy consists of chemoradiation followed by surgery.
+
+CROSS trial randomized 364 patients with resectable esophageal and gastroesophageal junction tumors (75\% adenocarcinoma) to neoadjuvant chemoradiation consisting of 4,140 cGy of radiation with concurrent carboplatin and paclitaxel or surgery alone.\citep{vanhagen2074} Clinical node-positive disease was present in 16\%. Pathologic complete response was seen in 23\% of adenocarcinoma and 49\% of squamous cell carcinomas. Median overall survival was 49 months after trimodality vs 24 months after surgery alone (p=0.003). Squamous cell carcinomas appeared to have particular benefit, with a hazard ratio of 0.42 for squamous cell vs 0.74 for adenocarcinoma. Median survival was improved for adenocarcinoma from 27.1 months to 43.2 months, but the median survival for squamous cell increased from 27.1months to 81.6 months for squamous cell. Rate of R0 resection was higher with chemoradiation (92\% vs 69\%) andlocal recurrence rates lower (14\% vs 34\%). Despite the relatively low dose of radiation, in-field recurrences were less than 5\%. The primary cause of failure was distant disease (31\%) and local/regional failure (14\%).\citep{oppedijk385}
+
+\hypertarget{definitive-chemoradiation-vs-trimodality-therapy}{%
+\section{Definitive chemoradiation vs Trimodality therapy}\label{definitive-chemoradiation-vs-trimodality-therapy}}
+
+Stahl Locally advanced squamous cell carcinoma randomized to induction chemotherapy (cisplatin, etopiside, 5FU with leuocovrin) followed by chemoradiation (4000cGy with concurrent ciplatin and etopiside) followed by surgery compared with induction chemotherapy followed by chemoradiation (6400cGy with concurrent cisplatin and etopiside).\citep{stahl2310} Treatment-related morality was substantial in the surgery arm (13\% vs 4\%). This would be considered an excessive rate of operative mortality by modern standards. Unsurprisingly, there was no difference in overall survival between groups, in part because the surgical group had an excess 9\% mortality rate from treatment. Two-year survival in the surgery arm was 40\% vs 35\% in the definitive chemoradiation arm.
+
+In the French FFCD trial, 444 patients with carcinoma of the esophagus (90\% squamous cell) were treated with two cycles of 5-FU and cisplatin with concurrent radiation.\citep{bedenne1160} Patients with a partial or complete clinical response to chemoradiation were randomized to either surgery or a boost of radiation. Patients who did not respond to chemoradiation were treated with surgery and were eliminated from the study. Only 259 of the original 444 patients (59\%) went on to randomization, with the remainder (those not responding to chemoradiation) treated with surgery. Of the randomized group, median survival was 17.7months in the surgery arm versus 19.3months in the definitive chemoradiation arm. Like the Stahl study, treatment-related mortality in the surgical arm was high (9\% versus 1\%).
+
+\hypertarget{neoadjuvant-chemotheraphy-followed-by-surgery}{%
+\subsection{Neoadjuvant chemotheraphy followed by surgery}\label{neoadjuvant-chemotheraphy-followed-by-surgery}}
+
+POET Trial (Pre-Operative therapy in Esophageal adenocarcinoma Trial) treated patients with adenocarcinoma of the gastroesophageal junction with either neoadjuvant chemotherapy (5-FU, leucovorin, cisplatin) followed by surgery or induction chemotherapy with the same agents, followed by chemoradiation (4000cGy with concurrent cisplatin and etoposide). The study failed to meet its accrual goal, but there was a suggestion of improved 3-year survival with preoperative chemoradiation (47.4\% vs 27.7\% \emph{p}=0.07) as well as improved local control (76.5\% vs 59\%). In addition, chemoradiation was associated with a higher pathologic complete response rate (15.6\% vs 2\%)\citep{stahl851}. A meta-analysis of 33 randomized trials further suggested a greater benefit from neoadjuvant chemoradiation followed by surgery compared with neoadjuvant chemotherapy followed by surgery\citep{pasquali481} and a similar meta-analysis \citep{sjoquist681}
+
+\hypertarget{palliative-radiation}{%
+\section{Palliative radiation}\label{palliative-radiation}}
+
+Palliative radiation vs chemoradiation \citep{penniment114}
+
+Radiation along favored over chemoradiation in the palliaitve setting \citep{penniment114}
+
+\hypertarget{chemoradiation-vs-chemotherapy-in-stage-iv}{%
+\section{Chemoradiation vs chemotherapy in Stage IV}\label{chemoradiation-vs-chemotherapy-in-stage-iv}}
+
+\citep{guttman1134}
+
+\hypertarget{salvage-esophagectomy}{%
+\section{Salvage esophagectomy}\label{salvage-esophagectomy}}
+
+\citep{markar922}
+
+\hypertarget{surgery-1}{%
+\chapter{Surgery}\label{surgery-1}}
+
+Three general approaches exist for surgical therapy.
+
+Trans-thoracic or Ivor Lewis esophagectomy\citep{visbal1803} removes the intrathoracic portion of the esophagus and constructs an anastomosis within the chest. The approach include an abdominal phase, during which an esophageal substitute is constructed (usually from stomach). A thoracic phase then removes the intrathoracic esophagus and constructs an anastomosis within the chest cavity.
+
+A McKeown esophagectomy utilizes three surgical fields: abdomen, right chest, and neck. The right chest approach allows dissection of peri-esophageal lymph nodes, and the cervical incision allows removal of the total esophagus.\citep{mckeown259} This approach is useful for tumors which involve the proximal thoracic esophagus, to ensure a negative margin. The cervical anastomosis carries a higher risk of anastomotic leak than a thoracic anastomosis, although the morbidity of a cervical anastomosis leak is less serious than that of a leak of a thoracic anastomosis.
+
+A transhiatal esohpagectomy approaches the esophagus from the abdomen through the hiatus and from neck. By blunt dissection the esophagus is freed up without the need for thoracotomy. An esophageal substute is then brought from the abdomen to the neck through the mediastinum\citep{orringer643}\citep{orringer282}\textless! -- Orringer Ann surg 1984 --\textgreater{} The operation is designed to avoid the pulmonary toxicity of the right chest approach. On the other hand, the blunt nature of the mediastinal dissection means that fewer lymph nodes are harvested than with a trans-thoracic approach.
+
+Randomized trial of transthoracic esophagectomy with extended lymph node dissection versus transhiatal esohpagectomy showed fewer pulmonary complications with the transhiatal approach. \citep{hulscher1662} Fewer lymph nodes were havested with a transhiatal appraoch. A post-hoc analysis showed that among patients with 1-8 positive lymph nodes, survival with improved with the extended lymph node dissection.\citep{omloo1715}
+
+Minimally-invasive approaches to esophagectomy are now common, with evidence for less perioperative morbidity than an open approach \citep{biere1887}\citep{zhoue0132889}
+
+High volume Birkmeyer 2117;Wouters 1789;dikken 4068
+
+\hypertarget{preoperative-evaluation}{%
+\subsection{Preoperative Evaluation}\label{preoperative-evaluation}}
+
+Dysphagia can be scored accordgin to Mellow et al {[}Mellow 1443{]}:
+
+\begin{itemize}
+\tightlist
+\item
+  0 No dysphagia
+\item
+  1 Dysphagia to normal solids
+\item
+  2 Dysphagia to soft solids (ground beef, poultry,fish)
+\item
+  3 Dysphagia to solids and liquids
+\item
+  4 Inability to swallow saliva
+\end{itemize}
+
+\hypertarget{minimally-invasive-esophagectomy-2}{%
+\section{Minimally-invasive Esophagectomy}\label{minimally-invasive-esophagectomy-2}}
+
+Higher lymph node yield with MIE vs open approach {[}Kalff{]}
+
+\hypertarget{transthoracic-1}{%
+\section{Transthoracic}\label{transthoracic-1}}
+
+\hypertarget{transhiatal-1}{%
+\section{Transhiatal}\label{transhiatal-1}}
+
+\hypertarget{three-hole-1}{%
+\section{Three-hole}\label{three-hole-1}}
+
+\hypertarget{extended-lymphadenectomy-1}{%
+\section{Extended lymphadenectomy}\label{extended-lymphadenectomy-1}}
+
+\hypertarget{metastatic-disease}{%
+\chapter{Metastatic Disease}\label{metastatic-disease}}
+
+We have finished a nice book.
+
+\hypertarget{surgery-2}{%
+\chapter{Surgery}\label{surgery-2}}
+
+Some \emph{significant} applications are demonstrated in this chapter.
+
+\hypertarget{minimally-invasive-esophagectomy-3}{%
+\section{Minimally-invasive Esophagectomy}\label{minimally-invasive-esophagectomy-3}}
+
+Higher lymph node yield with MIE vs open approach {[}Kalff{]}
+
+\hypertarget{transthoracic-2}{%
+\section{Transthoracic}\label{transthoracic-2}}
+
+\hypertarget{transhiatal-2}{%
+\section{Transhiatal}\label{transhiatal-2}}
+
+\hypertarget{three-hole-2}{%
+\section{Three-hole}\label{three-hole-2}}
+
+\hypertarget{extended-lymphadenectomy-2}{%
+\section{Extended lymphadenectomy}\label{extended-lymphadenectomy-2}}
+
+\hypertarget{surgery-3}{%
+\chapter{Surgery}\label{surgery-3}}
+
+Some \emph{significant} applications are demonstrated in this chapter.
+
+\hypertarget{minimally-invasive-esophagectomy-4}{%
+\section{Minimally-invasive Esophagectomy}\label{minimally-invasive-esophagectomy-4}}
+
+Higher lymph node yield with MIE vs open approach {[}Kalff{]}
+
+\hypertarget{transthoracic-3}{%
+\section{Transthoracic}\label{transthoracic-3}}
+
+\hypertarget{transhiatal-3}{%
+\section{Transhiatal}\label{transhiatal-3}}
+
+\hypertarget{three-hole-3}{%
+\section{Three-hole}\label{three-hole-3}}
+
+\hypertarget{extended-lymphadenectomy-3}{%
+\section{Extended lymphadenectomy}\label{extended-lymphadenectomy-3}}
+
+\hypertarget{locally-advanced-gastric-cancer}{%
+\chapter{Locally-Advanced Gastric Cancer}\label{locally-advanced-gastric-cancer}}
+
+FLOT chemotherapy {[}Al-batran homann 2017{]}
+
+MAGIC study randomized 503 patients to perioperative `sandwich' therapy consisting of epirubicin, cisplatin, and 5-FU versus surgery alone. In the perioperative chemotherapy group, 4 cycles were administered prior to surgery, and 4 cycles afterwards. Tumors of the esophagus or gastroesophageal junction comprised 26\% of the study population. While over 90\% of patients assigned to the chemotherapy arm completed their preoperative chemotherapy, only 66\% completed their postoperative therapy. Survival at 5 years was 36\% in the perioperative chemotherapy group, compared with 24\% in the surgery group (p\textless0.001).\citep{cunningham11}
+
+CLASSIC clinical trial randomized 1033 patients with stage II or III gastric cancer after D2 gastrectomy to 6 months of adjuvant chemotherapy versus surgery alone. Three-year survival was improved in the chemotherapy group (74\% \emph{v} 59\%).\citep{bang315}
+
+The FFCD trial randomized patients to preoperative chemotherapy with 2 or 3 yccles of cisplatin and 5-FU versus surgery alone. Tumors of the lower esophagus or gastroesophageal junction comprised 75\% of the study population. Survival at 5 years was longer in the chemotherapy group (38\%) versus 24\% in the surgery alone group (p=0.02).\citep{ychou1715}
+
+\hypertarget{postoperative-adjuvant-chemoradiation}{%
+\chapter{Postoperative adjuvant chemoradiation}\label{postoperative-adjuvant-chemoradiation}}
+
+Intergroup 0116 trial \citep{mcdonald725}
+Surgical quality control was poor, as 90\% were treated a limited lymph node dissection
+
+ARTIST trial 450 patients treated with a D2 were randomizeed to adjuvant capcitibine and cisplatin versus chemoradiation consisting of two cycles of capcitabine/oxalipaltin followed by chemoradiation followed by chemotherapy. Overall 3- year survival did differ between groups (78.2\% vs 74.2\% p =0.86). A post-hoc analysis of patients with positive nodes showed a beneficial effect of chemoradiation (77.5\% \emph{v} 72.3\% p=0.365).\citep{lee268}
+
+CRITICS trial treated all patients with preoperative chemoterhapy followed by surgery. Postoperative patients were then randomized between additional chemotherapy versus chemoradiation.
+
+\(\leq\)
+\(\geq\)
+\(\neg\)
+\(\pm\) \$plusmn;
+\(\times\)
+\(<\)
+\(^\circ\)
+
+  \bibliography{XPS.bib}
+
+\end{document}

@@ -1,8 +1,47 @@
-\contentsline {chapter}{Prerequisites}{5}{chapter*.2}%
-\contentsline {chapter}{\numberline {1}Introduction}{7}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Literature}{9}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Methods}{11}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Applications}{13}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Example one}{13}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Example two}{13}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Final Words}{15}{chapter.5}%
+\contentsline {chapter}{Introduction}{5}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Esophageal Ca Overview}{7}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Diagnosis}{9}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Staging}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}T1}{12}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Superficial Esophageal Cancer}{13}{chapter.4}%
+\contentsline {chapter}{\numberline {5}T2N0 Tumors}{15}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Surgery}{17}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Minimally-invasive Esophagectomy}{17}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Transthoracic}{17}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Transhiatal}{17}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Three-hole}{17}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Extended lymphadenectomy}{17}{section.6.5}%
+\contentsline {section}{\numberline {6.6}AJCC Staging}{17}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}T Stage}{17}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}N Stage}{18}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.3}Anatomic location}{18}{subsection.6.6.3}%
+\contentsline {chapter}{\numberline {7}Locally Advanced Cancer}{19}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Minimally-invasive Esophagectomy}{19}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Trimodality Therapy}{19}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Definitive chemoradiation vs Trimodality therapy}{20}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Neoadjuvant chemotheraphy followed by surgery}{20}{subsection.7.3.1}%
+\contentsline {section}{\numberline {7.4}Palliative radiation}{21}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Chemoradiation vs chemotherapy in Stage IV}{21}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Salvage esophagectomy}{21}{section.7.6}%
+\contentsline {chapter}{\numberline {8}Surgery}{23}{chapter.8}%
+\contentsline {subsection}{\numberline {8.0.1}Preoperative Evaluation}{24}{subsection.8.0.1}%
+\contentsline {section}{\numberline {8.1}Minimally-invasive Esophagectomy}{24}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Transthoracic}{24}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Transhiatal}{24}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Three-hole}{24}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Extended lymphadenectomy}{24}{section.8.5}%
+\contentsline {chapter}{\numberline {9}Metastatic Disease}{25}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Surgery}{27}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Minimally-invasive Esophagectomy}{27}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Transthoracic}{27}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Transhiatal}{27}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Three-hole}{27}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Extended lymphadenectomy}{27}{section.10.5}%
+\contentsline {chapter}{\numberline {11}Surgery}{29}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Minimally-invasive Esophagectomy}{29}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Transthoracic}{29}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Transhiatal}{29}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Three-hole}{29}{section.11.4}%
+\contentsline {section}{\numberline {11.5}Extended lymphadenectomy}{29}{section.11.5}%
+\contentsline {chapter}{\numberline {12}Locally-Advanced Gastric Cancer}{31}{chapter.12}%
+\contentsline {chapter}{\numberline {13}Postoperative adjuvant chemoradiation}{33}{chapter.13}%
