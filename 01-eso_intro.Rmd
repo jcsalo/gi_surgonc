@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Esophageal Ca Overview {#EsoIntro}
 
 For the purposes of this guide, treatment of esophageal cancer can be grouped into four categories:

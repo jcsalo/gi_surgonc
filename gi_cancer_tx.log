@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.30)  2 FEB 2021 18:38
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.30)  3 FEB 2021 08:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -830,21 +830,205 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 
 ] (./gi_cancer_tx.toc
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 5.
+(Font)              scaled to size 7.0pt on input line 6.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 5.
+(Font)              scaled to size 5.0pt on input line 6.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 5.
+(Font)              scaled to size 10.00092pt on input line 6.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 5.
+(Font)              scaled to size 7.00064pt on input line 6.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 5.
+(Font)              scaled to size 5.00046pt on input line 6.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 5.
+(Font)              scaled to size 9.99893pt on input line 6.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 5.
+(Font)              scaled to size 6.99925pt on input line 6.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 5.
-[3
-! fwrite: Broken pipe
-! xelatex.exe: 
+(Font)              scaled to size 4.99947pt on input line 6.
+[3] [4])
+\tf@toc=\write4
+\openout4 = `gi_cancer_tx.toc'.
+
+[5] [6
+
+] [7] [8] [9
+
+] [10
+
+]
+Chapter 1.
+[11] [12
+
+]
+Chapter 2.
+[13] [14
+
+]
+Chapter 3.
+
+Package natbib Warning: Citation `hollis1116' on page 15 undefined on input lin
+e 169.
+
+[15]
+
+Package natbib Warning: Citation `pech652' on page 16 undefined on input line 1
+82.
+
+[16]
+Chapter 4.
+[17
+
+] [18
+
+]
+Chapter 5.
+[19] [20
+
+]
+Chapter 6.
+
+Package natbib Warning: Citation `rice' on page 21 undefined on input line 233.
+
+
+[21] [22]
+Chapter 7.
+[23
+
+] [24]
+Chapter 8.
+
+Package natbib Warning: Citation `oppedijk385' on page 25 undefined on input li
+ne 340.
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 343--343
+[]\TU/lmr/bx/n/14.4 Definitive chemoradiation vs Trimodality
+ []
+
+
+Package natbib Warning: Citation `stahl2310' on page 25 undefined on input line
+ 345.
+
+[25
+
+]
+
+Package natbib Warning: Citation `pasquali481' on page 26 undefined on input li
+ne 352.
+
+
+Package natbib Warning: Citation `sjoquist681' on page 26 undefined on input li
+ne 352.
+
+
+Package natbib Warning: Citation `penniment114' on page 26 undefined on input l
+ine 357.
+
+
+Underfull \vbox (badness 3407) has occurred while \output is active []
+
+[26]
+
+Package natbib Warning: Citation `penniment114' on page 27 undefined on input l
+ine 359.
+
+
+Package natbib Warning: Citation `guttman1134' on page 27 undefined on input li
+ne 364.
+
+
+Package natbib Warning: Citation `markar922' on page 27 undefined on input line
+ 369.
+
+[27] [28
+
+]
+Chapter 9.
+
+Package natbib Warning: Citation `visbal1803' on page 29 undefined on input lin
+e 376.
+
+
+Package natbib Warning: Citation `mckeown259' on page 29 undefined on input lin
+e 378.
+
+
+Package natbib Warning: Citation `orringer643' on page 29 undefined on input li
+ne 380.
+
+
+Package natbib Warning: Citation `orringer282' on page 29 undefined on input li
+ne 380.
+
+
+Package natbib Warning: Citation `omloo1715' on page 29 undefined on input line
+ 382.
+
+
+Package natbib Warning: Citation `zhoue0132889' on page 29 undefined on input l
+ine 384.
+
+[29] [30]
+Chapter 10.
+[31
+
+] [32
+
+] [33] [34]
+Chapter 11.
+[35
+
+] [36
+
+]
+Chapter 12.
+[37] [38
+
+]
+Chapter 13.
+
+Package natbib Warning: Citation `cunningham11' on page 39 undefined on input l
+ine 482.
+
+
+Package natbib Warning: Citation `ychou1715' on page 39 undefined on input line
+ 486.
+
+[39] [40
+
+]
+Chapter 14.
+
+Package natbib Warning: Citation `mcdonald725' on page 41 undefined on input li
+ne 491.
+
+
+Package natbib Warning: Citation `lee268' on page 41 undefined on input line 49
+4.
+
+(./gi_cancer_tx.bbl [41] [42
+
+] [43]
+Underfull \hbox (badness 2005) in paragraph at lines 112--119
+[]\TU/lmr/m/n/10 Stahl, M., Walz, M. K., Stuschke, M., Lehmann, N., Meyer, H.-J
+.,
+ []
+
+[44])
+
+Package natbib Warning: There were undefined citations.
+
+[45] (./gi_cancer_tx.aux)
+Package rerunfilecheck Info: File `gi_cancer_tx.out' has not changed.
+(rerunfilecheck)             Checksum: E9DFEB7C765FB45F3C89D28C0EE6AECD;6737.
+ ) 
+Here is how much of TeX's memory you used:
+ 16438 strings out of 479212
+ 291274 string characters out of 5873009
+ 748654 words of memory out of 5000000
+ 35809 multiletter control sequences out of 15000+600000
+ 407409 words of font info for 69 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 98i,6n,122p,1201b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on gi_cancer_tx.pdf (45 pages).
