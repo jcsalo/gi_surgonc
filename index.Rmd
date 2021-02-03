@@ -1,5 +1,5 @@
 --- 
-title: "GI Cancer Treatment"
+#title: "GI Cancer Treatment"
 author: "Jonathan C Salo MD"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

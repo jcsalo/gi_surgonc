@@ -10,7 +10,7 @@ The FFCD trial randomized patients to preoperative chemotherapy with 2 or 3 yccl
 
 # Postoperative adjuvant chemoradiation
 
-Intergroup 0116 trial [@mcdonald725]
+Intergroup 0116 trial [@macdonald725]
 Surgical quality control was poor, as 90% were treated a limited lymph node dissection
 
 

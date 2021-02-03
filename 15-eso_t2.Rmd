@@ -1,4 +1,8 @@
-# T2N0 Tumors
+# Localized Tumors {#localized}
+
+## T1b Tumors
+
+## T2N0 Tumors
 
 Multiple studies have failed to show the additional benefit of chemotherapy or chemoradiation for pT2N0M0 esophageal cancer patients treated with radiation.
 
@@ -30,6 +34,7 @@ Patients who appear to have limited stage disease benefit from evaluation with a
 
 (dysphagia)
 
+##Primary Surgery {#primary_surgery}
 
 NCCN recommends PET scanS
 
