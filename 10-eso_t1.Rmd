@@ -1,13 +1,21 @@
 # Superficial Esophageal Cancer {#superficial}
 
+Superficial esophageal cancer is usually asymptomatic, which means that the diagnosis is generally made in the context of surveillance for Barrett's esophagus.
+
+Nodular Barrett's esophagus can be best evaluation with endoscopic mucosal resection, which can provide further staging information if an adenocarcinoma is found, such as depth of invasion, differentiation, and lymphovascular invasion.
+
+Larger lesions should first be evaluated with endoscopic ultrasound (EUS).
+
+(Should nodular Barrett's be evaluated with EUS prior to EMR?)
+
 ## Endscopic Mucosal Resection (EMR) {#emr}
 
-For patients with nodular Barrett's esophagus or small tumors judged to be T1 by endoscopic ultrasound, endoscopic mucosal resection (EMR) can be diagnostic and potentially curative.[@pech652]<!--Pech Gastroenterology  2014 146:652 -->
+For patients with nodular Barrett's esophagus or small tumors judged to be T1 by endoscopic ultrasound, endoscopic mucosal resection (EMR) can be diagnostic and potentially curative.[@ragunath1609]
 
 
-EMR is likely sufficient for small tumors with favorable patholgic factors:
+EMR is likely sufficient for small tumors with favorable patholgic factors[@pech652]:
 
-- Size less than
+- Size less than 2cm
 - Lateral and deep margins clear
 - Absence of lymphovascular invasion
 - Well- or moderately- differentiated

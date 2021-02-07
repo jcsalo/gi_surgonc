@@ -21,6 +21,10 @@ In the French FFCD trial, 444 patients with carcinoma of the esophagus (90% squa
 POET Trial (Pre-Operative therapy in Esophageal adenocarcinoma Trial) treated patients with adenocarcinoma of the gastroesophageal junction with either neoadjuvant chemotherapy (5-FU, leucovorin, cisplatin) followed by surgery or induction chemotherapy with the same agents, followed by chemoradiation (4000cGy with concurrent cisplatin and etoposide).  The study failed to meet its accrual goal, but there was a suggestion of improved 3-year survival with preoperative chemoradiation (47.4% vs 27.7% *p*=0.07) as well as improved local control (76.5% vs 59%). In addition, chemoradiation was associated with a higher pathologic complete response rate (15.6% vs 2%)[@stahl851].  A meta-analysis of 33 randomized trials further suggested a greater benefit from neoadjuvant chemoradiation followed by surgery compared with neoadjuvant chemotherapy followed by surgery[@pasquali481] and a similar meta-analysis [@sjoquist681]
 
 
+#Active Surveillance
+
+EGD is poor predictor of pCR [@sarkaria764]
+
 
 ## Salvage esophagectomy
 
