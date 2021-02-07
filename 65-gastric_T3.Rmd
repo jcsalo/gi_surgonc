@@ -1,4 +1,8 @@
-# Locally-Advanced Gastric Cancer
+# Locally-Advanced Gastric
+
+Locally-advanced gastric cancer (T3 or N^+^) is generally treated with some form of adjuvant therapy, which has been shown to improve upon the outcomes with surgery alone.
+
+## Preoperative Chemotherapy
 
 FLOT chemotherapy [Al-batran homann 2017]
 
@@ -8,12 +12,16 @@ CLASSIC clinical trial randomized 1033 patients with stage II or III gastric can
 
 The FFCD trial randomized patients to preoperative chemotherapy with 2 or 3 yccles of cisplatin and 5-FU versus surgery alone. Tumors of the lower esophagus or gastroesophageal junction comprised 75% of the study population. Survival at 5 years was longer in the chemotherapy group (38%) versus 24% in the surgery alone group (p=0.02).[@ychou1715]
 
-# Postoperative adjuvant chemoradiation
+## Postoperative chemotherapy
+
+## Postoperative chemoradiation
 
 Intergroup 0116 trial [@macdonald725]
 Surgical quality control was poor, as 90% were treated a limited lymph node dissection
 
 
-ARTIST trial 450 patients treated with a D2  were randomizeed to adjuvant capcitibine and cisplatin versus chemoradiation consisting of two cycles of capcitabine/oxalipaltin followed by chemoradiation followed by chemotherapy. Overall 3- year survival did differ between groups (78.2% vs 74.2% p =0.86). A post-hoc analysis of patients with positive nodes showed a beneficial effect of chemoradiation (77.5% *v* 72.3% p=0.365).[@lee268]
+ARTIST trial 450 patients treated with a D1 $\alpha$ gastrectomy  were randomized to adjuvant capcitibine and cisplatin versus chemoradiation consisting of two cycles of capcitabine/oxalipaltin followed by chemoradiation followed by chemotherapy. Overall 3- year survival did differ between groups (78.2% vs 74.2% p =0.86). A post-hoc analysis of patients with positive nodes showed a beneficial effect of chemoradiation (77.5% *v* 72.3% p=0.365).[@lee268]
 
-CRITICS trial treated all patients with preoperative chemoterhapy followed by surgery.  Postoperative patients were then randomized between additional chemotherapy versus chemoradiation. 
+CRITICS trial treated all patients with preoperative chemoterhapy followed by surgery.  Postoperative patients were then randomized between additional chemotherapy versus chemoradiation.
+
+## Preoperative chemoradiation

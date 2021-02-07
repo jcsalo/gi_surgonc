@@ -16,4 +16,6 @@ Patients who present with dysphagia are likely to have T3 or T4 disease, which i
 
 PET can be helpful in evaluating patients who may have T1-2 disease, and might be candidates for primary surgical therapy. A comparison of PET and EUS [malik,claxton,1] showed that uT1-2 tumors had median metabolic tumor volume (MTV) of 6.7cm^3^, compared with uT3-4 tumors, with a median SUV of 35.7cm^3^.
 
+<!---
 # PET scan {#pet}
+--->

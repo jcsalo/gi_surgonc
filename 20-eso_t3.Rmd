@@ -8,7 +8,9 @@ Trimodality therapy consists of chemoradiation followed by surgery.
 
 CROSS trial randomized 364 patients with resectable esophageal and gastroesophageal junction tumors (75% adenocarcinoma) to neoadjuvant chemoradiation consisting of 4,140 cGy of radiation with concurrent carboplatin and paclitaxel or surgery alone.[@vanhagen2074] Clinical node-positive disease was present in 16%. Pathologic complete response was seen in 23% of adenocarcinoma and 49% of squamous cell carcinomas. Median overall survival was 49 months after trimodality vs 24 months after surgery alone (p=0.003). Squamous cell carcinomas appeared to have particular benefit, with a hazard ratio of 0.42 for squamous cell vs 0.74 for adenocarcinoma. Median survival was improved for adenocarcinoma from 27.1 months to 43.2 months, but the median survival for squamous cell increased from 27.1months to 81.6 months for squamous cell.   Rate of R0 resection was higher with chemoradiation (92% vs 69%) andlocal recurrence rates lower (14% vs 34%). Despite the relatively low dose of radiation, in-field recurrences were less than 5%. The primary cause of failure was distant disease (31%) and local/regional failure (14%).[@oppedijk385]
 
-## Definitive chemoradiation vs Trimodality therapy
+## ChemoRT vs Trimodality therapy {}
+
+The sensitivity of squamous cell carcinoma of the esophagus to chemoradiation has raised the question whether 
 
 Stahl Locally advanced squamous cell carcinoma randomized to induction chemotherapy (cisplatin, etopiside, 5FU with leuocovrin) followed by chemoradiation (4000cGy with concurrent ciplatin and etopiside) followed by surgery compared with induction chemotherapy followed by chemoradiation (6400cGy with concurrent cisplatin and etopiside).[@stahl2310]  Treatment-related morality was substantial in the surgery arm (13% vs 4%). This would be considered an excessive rate of operative mortality by modern standards.  Unsurprisingly, there was no difference in overall survival between groups, in part because the surgical group had an excess 9% mortality rate from treatment. Two-year survival in the surgery arm was 40% vs 35% in the definitive chemoradiation arm. 
 

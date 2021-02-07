@@ -1,11 +1,11 @@
-# Esophageal Ca Overview {#EsoIntro}
+# Overview {#EsoIntro}
 
 Esophageal cancers can be grouped into 4 treatment categories:
 
-- [Superficial](#superficial) -> Endoscopic therapy
-- [Localized](#localized) -> Primary surgery
-- [Locally Advanced](#locally_advanced) -> Trimodality therapy
-- [Metastatic](#metastatic) -> Systemic therapy
+- [Superficial](#superficial) $\rightarrow$ Endoscopic therapy
+- [Localized](#localized) $\rightarrow$ Primary surgery
+- [Locally Advanced](#locally_advanced) $\rightarrow$ Trimodality therapy
+- [Metastatic](#metastatic) $\rightarrow$ Systemic therapy
 
 Patients with minimal dysphagia, no weight loss, and small (<3cm length) tumors are evaluated with endoscopic ultrasound:
 

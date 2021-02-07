@@ -1,3 +1,4 @@
+<!---
 # Diagnosis
 
 The diagnosis of esophageal cancer is generally made at upper endscopy. Several findings at EGD are important in the subsequent workup and treatment:
@@ -7,3 +8,4 @@ The diagnosis of esophageal cancer is generally made at upper endscopy. Several 
  - Location of the gastroesophageal junction relative to the tumor
  - Presence and extent of Barrett's changes
  - Presence and extent of invasion of tumor into the gastric cardia, particularly along the lesser curvature side. This is best seen with a retroflexed view
+--->
