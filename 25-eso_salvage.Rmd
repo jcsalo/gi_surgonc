@@ -26,7 +26,6 @@ POET Trial (Pre-Operative therapy in Esophageal adenocarcinoma Trial) treated pa
 EGD is poor predictor of pCR [@sarkaria764]
 
 
-## GE Junction
+## Salvage esophagectomy
 
-[@Siewert260]
-[@siewert353]
+[@markar922]
