@@ -28,5 +28,5 @@ EGD is poor predictor of pCR [@sarkaria764]
 
 ## GE Junction
 
-[@Siewert260]
+[@siewert260]
 [@siewert353]

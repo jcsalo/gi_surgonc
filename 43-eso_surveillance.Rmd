@@ -1,7 +1,7 @@
 # Surveillance {#eso_surveillance}
 
 ## T1a treated with endoscopic resection
-EGD every 3 mo for first year, then every 6 months for second year, then annually[@shaneen30]
+EGD every 3 mo for first year, then every 6 months for second year, then annually[@shaheen30]
 
 ## Tib treated with endoscoic resection
 EGD every 3 mon for first year, then every 4-6 months for seond year, then annually

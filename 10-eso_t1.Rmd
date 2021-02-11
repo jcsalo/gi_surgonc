@@ -17,9 +17,9 @@ T1a tumors have a low risk of nodal metastasis [@dunbar850]
 For patients with nodular Barrett's esophagus or small tumors judged to be T1 by endoscopic ultrasound, endoscopic mucosal resection (EMR) can be diagnostic and potentially curative.[@ragunath1609]
 
 
-EMR also helps establish the difference between T1a and T1b compared with pathology [@worrell]
+EMR also helps establish the difference between T1a and T1b compared with pathology [@worrell484]
 
-EMR is likely sufficient for small tumors with favorable patholgic factors[@pech652][@nurkin1090]:
+EMR is likely sufficient for small tumors with favorable patholgic factors[@pech652] [@nurkin1090]:
 
 - Size less than 2cm
 - Lateral and deep margins clear
@@ -36,4 +36,4 @@ Endoscopic submucosal dissection is a technique for deeper endoscopic removal of
 
 ESD takes more time and has higher R0 resection rate but similar recurrence erate at 2 eyars [@terheggen783]
 
-Need for RFA of Barrett's after EMR:  [@Haidry87} [@powu23] Combination therapy with EMR and RFA results in lower rate of recurence than EMR alone.[@pech1200]
+Need for RFA of Barrett's after EMR:  [@haidry87] [@powu23] Combination therapy with EMR and RFA results in lower rate of recurence than EMR alone.[@pech1200]
