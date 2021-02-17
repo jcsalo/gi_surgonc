@@ -43,3 +43,9 @@ EGD is poor predictor of pCR [@sarkaria764]
 ## Induction chemotherapy followed by chemoRT 
 
 See NCCN pages M-25 and M-26
+
+Stahl [@stahl851] randomized patients to preoperative chemotherapy (A) vs preoperative chemotherapy followed by preoperative chemoradiation (B). Higher pcR rate in arm B (15.6% vs 2%) and ypN0 resection (64.4% vs 37.7%).  
+
+## Postoperative chemoradiation
+
+Intergroup-0116 [@macdonald726]  [@smalley2327] treated 556 patients with adenocarcinoma of the stomach or GE junction with surgery along vs surgery followed by postoperative chemoradiation. After a median followup of over 5 years, median overall survival iin the surgery alone group was 27 months vs 36 months in the postoperative chemoradiation group (p=0.005)
