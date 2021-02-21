@@ -10,7 +10,7 @@ CROSS trial randomized 364 patients with resectable esophageal and gastroesophag
 
 Alternative to carbotaxol is FOLFOX (SOG trial [@leichman4555])
 
-Ogoing PROTECT trial ompares FOLFOX to paclitaxel and carbo [@messager]
+Ogoing PROTECT trial ompares FOLFOX to paclitaxel and carbo [@messager318]
 
 ### Neoadjuvant chemoRT for SCCA
 
@@ -48,4 +48,6 @@ Stahl [@stahl851] randomized patients to preoperative chemotherapy (A) vs preope
 
 ## Postoperative chemoradiation
 
-Intergroup-0116 [@macdonald726]  [@smalley2327] treated 556 patients with adenocarcinoma of the stomach or GE junction with surgery along vs surgery followed by postoperative chemoradiation. After a median followup of over 5 years, median overall survival iin the surgery alone group was 27 months vs 36 months in the postoperative chemoradiation group (p=0.005)
+Intergroup-0116 [@macdonald725]  [@smalley2327] treated 556 patients with adenocarcinoma of the stomach or GE junction with surgery along vs surgery followed by postoperative chemoradiation. After a median followup of over 5 years, median overall survival iin the surgery alone group was 27 months vs 36 months in the postoperative chemoradiation group (p=0.005)  Decrease in local failure as the first site of failure in the chemoradiation group (19% versus 29%).
+
+Chemoradiation afte resectdion of GE junction tumors [@kofoed26] among a group of 211 patients with GE junction adenocarcinoma with positive lymph nodes with improved 3-year disease-free survival (37% s 24%).

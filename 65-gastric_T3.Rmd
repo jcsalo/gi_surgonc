@@ -14,7 +14,7 @@ The FFCD trial randomized patients to preoperative chemotherapy with 2 or 3 yccl
 
 ## Postoperative chemotherapy
 
-CLAASIC trial [@noh1389]  [@bang315]
+CLAASIC trial [@noh1389]  [@bang315] patients with II or IIIB gastric cancer received gastrectomy with D2 node dissection randomized to postoperative chemotherapy with capecitabine and oxaliplatin. Chemotherapy group had improved 3-year DFS (74% vs 59% P<.0001)
 
 # Locally Advanced Gastric Ca
 

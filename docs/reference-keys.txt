@@ -8,9 +8,12 @@ t2n0-tumors
 staging-of-t2n0-tumors
 locally_advanced
 trimodality
+neoadjuvant-chemort-for-scca
 chemort-vs-trimodality-therapy
 neoadjuvant-chemotheraphy-followed-by-surgery
 ge-junction
+induction-chemotherapy-followed-by-chemort
+postoperative-chemoradiation
 radiation-for-esophageal-cancer
 salvage-esophagectomy
 surgery
@@ -39,5 +42,7 @@ locally-advanced-gastric
 preoperative-chemotherapy
 postoperative-chemotherapy
 locally-advanced-gastric-ca
-postoperative-chemoradiation
+postoperative-chemoradiation-1
 preoperative-chemoradiation
+neoadjuvant-chemotherapy-for-colon-cancer
+extended-node-dissection-for-colon-cancer
