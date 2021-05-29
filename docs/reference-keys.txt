@@ -14,6 +14,9 @@ neoadjuvant-chemotheraphy-followed-by-surgery
 ge-junction
 induction-chemotherapy-followed-by-chemort
 postoperative-chemoradiation
+definitive-chemort
+phase-ii-studies
+chemort-vs-trimodality-therapy-1
 radiation-for-esophageal-cancer
 salvage-esophagectomy
 surgery
