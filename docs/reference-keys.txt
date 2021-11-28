@@ -1,4 +1,13 @@
-EsoIntro
+Intro
+absences
+communication
+inpatients
+er-admits
+medical-records
+operative-logs
+case-assignment
+clinic
+work-hours
 staging
 superficial
 emr

@@ -5,9 +5,9 @@ bookdown::gitbook:
       collapse: section
       scroll_highlight: yes
       before: |
-        <li><a href="./">GI Cancer Treatment Protocols</a></li>
+        <li>GI Surgical Oncology</li>
       after: |
-        <li><a href="https://atriumhealth.org/for-providers/salo-jonathan" target="blank">Jonathan C Salo MD</a></li>
+        <li><a href="mailto:jonathan.salo@atriumhealth.org">Feedback and Updates</a></li>
       search: yes
       sharing: no
     download: ["pdf", "epub"]
