@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2021.1.31)  29 NOV 2021 03:33
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2021.1.31)  29 NOV 2021 03:37
 entering extended mode
 **./gi_surgonc.tex
 (gi_surgonc.tex
@@ -794,7 +794,7 @@ Chapter 1.
 ]
 Chapter 2.
 
-Overfull \hbox (2.16893pt too wide) in paragraph at lines 144--145
+Overfull \hbox (2.16893pt too wide) in paragraph at lines 142--143
 \TU/lmr/m/n/10 Colorectal Surgery (Davis/Kasten) and GI Surgical Oncology (Hill
 /Salo/Squires)
  []
@@ -806,7 +806,7 @@ Chapter 3.
 ] [12]
 Chapter 4.
 
-Underfull \hbox (badness 1122) in paragraph at lines 261--262
+Underfull \hbox (badness 1122) in paragraph at lines 259--260
 []\TU/lmr/bx/n/10 Esophagectomy Events to be Documented (in Shared Hospital
  []
 
@@ -817,7 +817,7 @@ Underfull \hbox (badness 1122) in paragraph at lines 261--262
 ]
 Chapter 5.
 [17]
-Overfull \hbox (2.95082pt too wide) in paragraph at lines 421--421
+Overfull \hbox (2.95082pt too wide) in paragraph at lines 419--419
 []|\TU/lmr/m/n/10 Endo|  
  []
 
@@ -826,21 +826,21 @@ Overfull \hbox (2.95082pt too wide) in paragraph at lines 421--421
 ] [21] [22]
 Chapter 6.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 453.
+(Font)              scaled to size 7.0pt on input line 451.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 453.
+(Font)              scaled to size 5.0pt on input line 451.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 453.
+(Font)              scaled to size 10.00092pt on input line 451.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 453.
+(Font)              scaled to size 7.00064pt on input line 451.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 453.
+(Font)              scaled to size 5.00046pt on input line 451.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 453.
+(Font)              scaled to size 9.99893pt on input line 451.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 453.
+(Font)              scaled to size 6.99925pt on input line 451.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 453.
+(Font)              scaled to size 4.99947pt on input line 451.
 [23
 
 ] [24
@@ -862,10 +862,10 @@ Chapter 10.
 ]
 
 Package natbib Warning: Citation `stahl4530' on page 32 undefined on input line
- 635.
+ 633.
 
 [32]
-Underfull \hbox (badness 10000) in paragraph at lines 654--654
+Underfull \hbox (badness 10000) in paragraph at lines 652--652
 []\TU/lmr/bx/n/14.4 Induction chemotherapy followed by
  []
 
@@ -875,19 +875,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 654--654
 Chapter 11.
 
 Package natbib Warning: Citation `taketa95' on page 35 undefined on input line 
-675.
+673.
 
 
 Package natbib Warning: Citation `furlong107' on page 35 undefined on input lin
-e 675.
+e 673.
 
 
 Package natbib Warning: Citation `chirieac1347' on page 35 undefined on input l
-ine 679.
+ine 677.
 
 
 Package natbib Warning: Citation `stahl4530' on page 35 undefined on input line
- 686.
+ 684.
 
 [35] [36]
 Chapter 12.
@@ -963,8 +963,8 @@ Package natbib Warning: There were undefined citations.
 [72] (gi_surgonc.aux) ) 
 Here is how much of TeX's memory you used:
  18515 strings out of 412095
- 318944 string characters out of 2851369
- 807999 words of memory out of 3000000
+ 318937 string characters out of 2851369
+ 807992 words of memory out of 3000000
  37901 multiletter control sequences out of 15000+200000
  409889 words of font info for 81 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
