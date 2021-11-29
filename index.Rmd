@@ -27,7 +27,7 @@ install.packages("bookdown")
 
 We hope you find this orientation manual helpful. Please let us know about errors or needed updates.
 
-# Overview {#Intro1}
+# Overview {#Intro}
 
 ## Absences
 

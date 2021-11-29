@@ -8,6 +8,7 @@ operative-logs
 case-assignment
 clinic
 work-hours
+cmc-inpatient
 staging
 superficial
 emr

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2021.1.31)  27 NOV 2021 19:08
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2021.1.31)  28 NOV 2021 21:19
 entering extended mode
 **./gi_surgonc.tex
 (gi_surgonc.tex
@@ -783,161 +783,175 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 ] (gi_surgonc.toc
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 4.
+(Font)              scaled to size 7.0pt on input line 2.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 4.
+(Font)              scaled to size 5.0pt on input line 2.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 4.
+(Font)              scaled to size 10.00092pt on input line 2.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 4.
+(Font)              scaled to size 7.00064pt on input line 2.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 4.
+(Font)              scaled to size 5.00046pt on input line 2.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 4.
+(Font)              scaled to size 9.99893pt on input line 2.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 4.
+(Font)              scaled to size 6.99925pt on input line 2.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 4.
-[3])
+(Font)              scaled to size 4.99947pt on input line 2.
+[3] [4])
 \tf@toc=\write3
 \openout3 = `gi_surgonc.toc'.
 
-[4] [5
-
-] [6] [7
-
-] [8
+[5] [6
 
 ]
 Chapter 1.
-[9] [10] [11] [12
+[7] [8] [9] [10
+
+] [11] [12]
+Chapter 2.
+
+Overfull \hbox (2.16893pt too wide) in paragraph at lines 148--149
+\TU/lmr/m/n/10 Colorectal Surgery (Davis/Kasten) and GI Surgical Oncology (Hill
+/Salo/Squires)
+ []
+
+[13
 
 ]
-Chapter 2.
-[13] [14]
+Overfull \hbox (2.16893pt too wide) in paragraph at lines 199--200
+[]\TU/lmr/m/n/10 Colorectal Surgery (Davis/Kasten) and GI Surgical Oncology (Hi
+ll/Salo/Squires)
+ []
+
+[14] [15] [16
+
+]
 Chapter 3.
-[15
-
-] [16]
+[17] [18]
 Chapter 4.
-[17
-
-] [18]
-Chapter 5.
 [19
 
+] [20]
+Chapter 5.
+[21
+
+] [22]
+Chapter 6.
+[23
+
 ]
 
-Package natbib Warning: Citation `stahl4530' on page 20 undefined on input line
- 298.
+Package natbib Warning: Citation `stahl4530' on page 24 undefined on input line
+ 397.
 
-[20]
-Overfull \hbox (12.96948pt too wide) in paragraph at lines 317--317
+[24]
+Overfull \hbox (12.96948pt too wide) in paragraph at lines 416--416
 []\TU/lmr/bx/n/14.4 Induction chemotherapy followed by chemoRT 
  []
 
-[21] [22
+[25] [26
 
 ]
-Chapter 6.
-
-Package natbib Warning: Citation `taketa95' on page 23 undefined on input line 
-338.
-
-
-Package natbib Warning: Citation `furlong107' on page 23 undefined on input lin
-e 338.
-
-
-Package natbib Warning: Citation `chirieac1347' on page 23 undefined on input l
-ine 342.
-
-
-Package natbib Warning: Citation `stahl4530' on page 23 undefined on input line
- 349.
-
-[23] [24]
 Chapter 7.
-[25
 
-] [26
+Package natbib Warning: Citation `taketa95' on page 27 undefined on input line 
+437.
 
-]
-Chapter 8.
+
+Package natbib Warning: Citation `furlong107' on page 27 undefined on input lin
+e 437.
+
+
+Package natbib Warning: Citation `chirieac1347' on page 27 undefined on input l
+ine 441.
+
+
+Package natbib Warning: Citation `stahl4530' on page 27 undefined on input line
+ 448.
+
 [27] [28]
-Chapter 9.
+Chapter 8.
 [29
 
 ] [30
 
 ]
+Chapter 9.
+[31] [32]
 Chapter 10.
-[31] [32
+[33
+
+] [34
 
 ]
 Chapter 11.
+[35] [36
+
+]
+Chapter 12.
 
 Underfull \vbox (badness 2134) has occurred while \output is active []
 
-[33] [34]
-Chapter 12.
-[35
-
-] [36
-
-] [37] [38]
+[37] [38]
 Chapter 13.
 [39
 
 ] [40
 
-]
+] [41] [42]
 Chapter 14.
-[41] [42
+[43
+
+] [44
 
 ]
 Chapter 15.
-[43] [44]
-Chapter 16.
-[45
-
-] [46
+[45] [46
 
 ]
+Chapter 16.
+[47] [48]
 Chapter 17.
-[47]
-Overfull \hbox (14.49562pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 48 \TU/lmr/m/sl/10 CHAPTER 17.  NEOADJUVANT CHEMOTHERAPY FOR COL
-ON CANCER
- []
+[49
 
-[48
+] [50
 
 ]
 Chapter 18.
-(gi_surgonc.bbl [49] [50
+[51]
+Overfull \hbox (14.49562pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 52 \TU/lmr/m/sl/10 CHAPTER 18.  NEOADJUVANT CHEMOTHERAPY FOR COL
+ON CANCER
+ []
 
-] [51] [52] [53] [54] [55] [56] [57]
+[52
+
+]
+Chapter 19.
+(gi_surgonc.bbl [53] [54
+
+] [55] [56] [57] [58] [59] [60] [61]
 Underfull \hbox (badness 2158) in paragraph at lines 496--503
 []\TU/lmr/m/n/10 Stahl, M., Walz, M. K., Stuschke, M., Lehmann, N., Meyer, H.-J
 .,
  []
 
-[58] [59])
+[62] [63])
 
 Package natbib Warning: There were undefined citations.
 
-[60] (gi_surgonc.aux) ) 
+[64] (gi_surgonc.aux) ) 
 Here is how much of TeX's memory you used:
  18537 strings out of 412095
- 318993 string characters out of 2851369
- 807390 words of memory out of 3000000
+ 318986 string characters out of 2851369
+ 807392 words of memory out of 3000000
  37923 multiletter control sequences out of 15000+200000
  409889 words of font info for 81 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  94i,6n,118p,1285b,591s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on gi_surgonc.pdf (60 pages).
+Output written on gi_surgonc.pdf (64 pages).
 
 ! xelatex: security risk: running with elevated privileges
 ! miktex-dvipdfmx: security risk: running with elevated privileges
