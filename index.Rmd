@@ -4,7 +4,7 @@ title: "GI Surgical Oncology"
 #date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [XPS.bib]
+bibliography: [XPS.bib,book.bib]
 biblio-style: apalike
 link-citations: yes
 description: "Orientation Manual for GI Surgical Oncology Service"
@@ -23,10 +23,12 @@ install.packages("bookdown")
 #knitr::write_bib(c(
 #  .packages(), 'bookdown', 'knitr', 'rmarkdown'
 #), 'packages.bib')
+
+# (PART\*) Inpatient {-}
+
+
+
 ```
-
-We hope you find this orientation manual helpful. Please let us know about errors or needed updates.
-
 # Overview {#Intro}
 
 ## Absences
@@ -68,4 +70,4 @@ Clinic is an important part of a surgeon's education, where decisions are made r
 If the service workload jeopardizes your ability to abide by the work hour restrictions, you must notify an attending so that arrangements can be made. The service attendings are committed to abiding by work hour restrictions. 
 
 
-# (PART\*) Inpatient {-}
+

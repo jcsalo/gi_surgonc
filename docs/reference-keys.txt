@@ -8,7 +8,17 @@ operative-logs
 case-assignment
 clinic
 work-hours
-cmc-inpatient
+inpatient
+admissions
+rounds
+resident-halo-teams
+attending-halo-teams
+consults
+conferences
+rounds-1
+progress-notes
+discharges
+EsoIntro
 staging
 superficial
 emr
@@ -49,7 +59,7 @@ locally-advanced-treated-with-trimodality-therapy
 eso_survivorship
 nutritional-consequences
 cardiac-toxicity-of-radiation
-overview
+gastric-overview
 gast_superficial
 locally-advanced-gastric
 preoperative-chemotherapy

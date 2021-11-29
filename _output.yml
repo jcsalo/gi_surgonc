@@ -11,10 +11,13 @@ bookdown::gitbook:
       search: yes
       sharing: no
     download: ["pdf", "epub"]
-bookdown::pdf_book:
+bookdown::pdf_document2:
   includes:
     in_header: preamble.tex
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
+  toc: true
+  toc_depth: 1
+  fontsize: 9pt
 bookdown::epub_book: default
