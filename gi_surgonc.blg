@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: gi_surgonc.aux
+The style file: apalike.bst
+Database file #1: XPS.bib
+Database file #2: book.bib
+Warning--I didn't find a database entry for "stahl4530"
+Warning--I didn't find a database entry for "taketa95"
+Warning--I didn't find a database entry for "furlong107"
+Warning--I didn't find a database entry for "chirieac1347"
+You've used 82 entries,
+            1935 wiz_defined-function locations,
+            939 strings with 34639 characters,
+and the built_in function-call counts, 56914 in all, are:
+= -- 4967
+> -- 4759
+< -- 7
++ -- 1816
+- -- 1806
+* -- 6128
+:= -- 10165
+add.period$ -- 246
+call.type$ -- 82
+change.case$ -- 1313
+chr.to.int$ -- 82
+cite$ -- 82
+duplicate$ -- 1148
+empty$ -- 2619
+format.name$ -- 1898
+if$ -- 10336
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 82
+newline$ -- 413
+num.names$ -- 246
+pop$ -- 1142
+preamble$ -- 1
+purify$ -- 1313
+quote$ -- 0
+skip$ -- 828
+stack$ -- 0
+substring$ -- 3476
+swap$ -- 82
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 492
+warning$ -- 0
+while$ -- 316
+width$ -- 0
+write$ -- 1068
+(There were 4 warnings)
