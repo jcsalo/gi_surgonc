@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2021.1.31)  4 DEC 2021 03:21
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2021.1.31)  4 DEC 2021 03:25
 entering extended mode
 **./gi_surgonc.tex
 (gi_surgonc.tex
@@ -897,12 +897,7 @@ Chapter 15.
 Chapter 16.
 [57
 
-]
-
-Package natbib Warning: Citation `stahl4530' on page 58 undefined on input line
- 1344.
-
-[58]
+] [58]
 Underfull \hbox (badness 10000) in paragraph at lines 1363--1363
 []\TU/lmr/bx/n/14.4 Induction chemotherapy followed by
  []
@@ -911,18 +906,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 1363--1363
 
 ]
 Chapter 17.
-
-Package natbib Warning: Citation `taketa95' on page 61 undefined on input line 
-1384.
-
-
-Package natbib Warning: Citation `furlong107' on page 61 undefined on input lin
-e 1384.
-
-
-Package natbib Warning: Citation `chirieac1347' on page 61 undefined on input l
-ine 1388.
-
 
 Package natbib Warning: Citation `stahl4530' on page 61 undefined on input line
  1395.
@@ -989,26 +972,26 @@ Chapter 29.
 (gi_surgonc.bbl [87] [88
 
 ] [89] [90] [91] [92] [93] [94] [95]
-Underfull \hbox (badness 2158) in paragraph at lines 496--503
+Underfull \hbox (badness 2158) in paragraph at lines 516--523
 []\TU/lmr/m/n/10 Stahl, M., Walz, M. K., Stuschke, M., Lehmann, N., Meyer, H.-J
 .,
  []
 
-[96] [97])
+[96] [97] [98])
 
 Package natbib Warning: There were undefined citations.
 
-[98] (gi_surgonc.aux) ) 
+[99] (gi_surgonc.aux) ) 
 Here is how much of TeX's memory you used:
- 18531 strings out of 412095
- 319147 string characters out of 2851369
- 808355 words of memory out of 3000000
- 37917 multiletter control sequences out of 15000+200000
+ 18540 strings out of 412095
+ 319309 string characters out of 2851369
+ 807450 words of memory out of 3000000
+ 37926 multiletter control sequences out of 15000+200000
  409889 words of font info for 81 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 94i,6n,118p,1806b,591s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 94i,6n,118p,1806b,605s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on gi_surgonc.pdf (98 pages).
+Output written on gi_surgonc.pdf (99 pages).
 
 ! xelatex: security risk: running with elevated privileges
 ! miktex-dvipdfmx: security risk: running with elevated privileges

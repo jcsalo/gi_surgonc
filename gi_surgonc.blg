@@ -3,53 +3,48 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: gi_surgonc.aux
 Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
-Reallocating 'name_of_file' (item size: 1) to 4 items.
-Reallocating 'name_of_file' (item size: 1) to 5 items.
-Database file #1: XPS.bib
-Database file #2: book.bib
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Database file #1: zotero.bib
 Warning--I didn't find a database entry for "stahl4530"
-Warning--I didn't find a database entry for "taketa95"
-Warning--I didn't find a database entry for "furlong107"
-Warning--I didn't find a database entry for "chirieac1347"
-You've used 82 entries,
+You've used 85 entries,
             1935 wiz_defined-function locations,
-            938 strings with 34627 characters,
-and the built_in function-call counts, 56914 in all, are:
-= -- 4967
-> -- 4759
+            955 strings with 35550 characters,
+and the built_in function-call counts, 59133 in all, are:
+= -- 5200
+> -- 4928
 < -- 7
-+ -- 1816
-- -- 1806
-* -- 6128
-:= -- 10165
-add.period$ -- 246
-call.type$ -- 82
-change.case$ -- 1313
-chr.to.int$ -- 82
-cite$ -- 82
-duplicate$ -- 1148
-empty$ -- 2619
-format.name$ -- 1898
-if$ -- 10336
++ -- 1880
+- -- 1870
+* -- 6355
+:= -- 10559
+add.period$ -- 266
+call.type$ -- 85
+change.case$ -- 1360
+chr.to.int$ -- 85
+cite$ -- 85
+duplicate$ -- 1190
+empty$ -- 2709
+format.name$ -- 1965
+if$ -- 10719
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 82
-newline$ -- 413
-num.names$ -- 246
-pop$ -- 1142
+missing$ -- 85
+newline$ -- 439
+num.names$ -- 255
+pop$ -- 1172
 preamble$ -- 1
-purify$ -- 1313
+purify$ -- 1360
 quote$ -- 0
-skip$ -- 828
+skip$ -- 858
 stack$ -- 0
-substring$ -- 3476
-swap$ -- 82
+substring$ -- 3635
+swap$ -- 85
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 492
+type$ -- 510
 warning$ -- 0
-while$ -- 316
+while$ -- 340
 width$ -- 0
-write$ -- 1068
-(There were 4 warnings)
+write$ -- 1129
+(There was 1 warning)
