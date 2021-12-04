@@ -1,7 +1,10 @@
-This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: gi_surgonc.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Reallocating 'name_of_file' (item size: 1) to 5 items.
 Database file #1: XPS.bib
 Database file #2: book.bib
 Warning--I didn't find a database entry for "stahl4530"
@@ -10,7 +13,7 @@ Warning--I didn't find a database entry for "furlong107"
 Warning--I didn't find a database entry for "chirieac1347"
 You've used 82 entries,
             1935 wiz_defined-function locations,
-            939 strings with 34639 characters,
+            938 strings with 34627 characters,
 and the built_in function-call counts, 56914 in all, are:
 = -- 4967
 > -- 4759

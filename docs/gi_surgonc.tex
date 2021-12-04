@@ -4,10 +4,14 @@
 %
 \documentclass[
 ]{book}
+\title{GI Surgical Oncology}
+\author{}
+\date{\vspace{-2.5em}}
+
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -69,15 +73,11 @@
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
 
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
-
-\title{GI Surgical Oncology}
-\author{}
-\date{\vspace{-2.5em}}
 
 \begin{document}
 \maketitle
@@ -278,8 +278,6 @@ The medical problems currently being managed are addressed in the assessment.
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
-& \\
-\midrule
 \endhead
 N & Delirium \\
 & Stroke \\
@@ -400,8 +398,6 @@ The discharge summary documents important events and complications in the postop
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.06}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.94}}@{}}
 \toprule
-& \\
-\midrule
 \endhead
 N & Followup plan for chronic pain management \\
 & Stroke \\
@@ -1045,10 +1041,11 @@ invasion of tumor into gastric cardia and lesser curvature of stomach
 
 \textbf{Anesthesia}
 
-Confirm that anesthesia has a copy of Dr Buhrman's protocol
+Confirm that anesthesia has a copy of Dr Campbell's protocol
 Dual-lumen ETT tube (taped to left)
 Arterial line (left arm will be on arm board)
-Lidocaine drip (see protocol for rate, which depends upon age)
+Anesthesia may place paraspinal muscle blocks.
+
 Position
 Supine on blue foam pad without draw sheet. Surgeon marks upper midline with non-sterile skin marker Foley catheter (with Criticor temperature sensor) Bovie pad Lower-body Bair Hugger at level of thighs Hair clipped from abdomen, right chest, and right axilla with electric clippers. If jejunostomy in place, it is usually prepped into the field. If there is an eschar at the jejunostomy site, this should be removed prior to prep. Jejunostomy is brought inferior and taped to skin (or sutured to skin with a 0 silk suture with a Keith needle) Shoulders are shifted to the right in preparation for `corkscrew' positioning Lateral positioners positioned with pad extending from greater trochanter inferiorly. Leather strap over thighs with strap inside of bars of lateral positioners Left arm on armboard Yassargil socket attached to headpiece of bed on left side. Well-leg holder attached to Yassargil socket and used to support right forearm (which will cross body) Right arm crosses body and is supported on well-leg holder.
 
@@ -1384,7 +1381,7 @@ Chemoradiation afte resectdion of GE junction tumors \citep{kofoed26} among a gr
 
 Experience with patients who refuse surgery or are medically unfit:
 
-\citep{taketa300} \citep{taketa95} \citep{furlong107}
+MD Anderson report of 61 patients out of 622 tri-modality-eligible patients who refused surgery after cCR. 5-year overall survival was 58\%. 13 developped local recurrence during surveillance, and 12 had successful salvage esophagectomy \citep{taketa300}. The same group compared those who underwent surgery vs definitive chemoradiation in a propensity-matched fashion\citep{taketa95}. Irish study of 56 patients aged 70 or older treated with neoadjuvant chemoradiation followed by selective surgery. Median survival was 28 months overall, 47 months for those with cCR, 61 months for primary resection, 46 monhts for cCRs who did not undergo resection, and 29 months for those with salvage esophagectomy\citep{furlong107}.
 
 Castoro\citep{castoro1375}
 
