@@ -38,17 +38,16 @@
 \contentsline {chapter}{\numberline {16}Locally Advanced Cancer}{57}{chapter.16}%
 \contentsline {section}{\numberline {16.1}Trimodality Therapy}{57}{section.16.1}%
 \contentsline {subsection}{\numberline {16.1.1}Neoadjuvant chemoRT for SCCA}{58}{subsection.16.1.1}%
-\contentsline {section}{\numberline {16.2}ChemoRT vs Trimodality therapy}{58}{section.16.2}%
-\contentsline {subsection}{\numberline {16.2.1}Neoadjuvant chemotheraphy followed by surgery}{58}{subsection.16.2.1}%
-\contentsline {section}{\numberline {16.3}GE Junction}{59}{section.16.3}%
-\contentsline {section}{\numberline {16.4}Induction chemotherapy followed by chemoRT}{59}{section.16.4}%
-\contentsline {section}{\numberline {16.5}Postoperative chemoradiation}{59}{section.16.5}%
-\contentsline {chapter}{\numberline {17}Definitive ChemoRT}{61}{chapter.17}%
+\contentsline {subsection}{\numberline {16.1.2}Neoadjuvant chemotheraphy followed by surgery}{58}{subsection.16.1.2}%
+\contentsline {section}{\numberline {16.2}GE Junction}{58}{section.16.2}%
+\contentsline {section}{\numberline {16.3}Induction chemotherapy followed by chemoRT}{58}{section.16.3}%
+\contentsline {section}{\numberline {16.4}Postoperative chemoradiation}{58}{section.16.4}%
+\contentsline {chapter}{\numberline {17}Chemoradiation}{61}{chapter.17}%
 \contentsline {section}{\numberline {17.1}Phase II Studies}{61}{section.17.1}%
 \contentsline {section}{\numberline {17.2}ChemoRT vs Trimodality therapy}{61}{section.17.2}%
-\contentsline {chapter}{\numberline {18}Radiation for esophageal cancer}{63}{chapter.18}%
+\contentsline {chapter}{\numberline {18}Radiation}{63}{chapter.18}%
 \contentsline {section}{\numberline {18.1}Salvage esophagectomy}{63}{section.18.1}%
-\contentsline {chapter}{\numberline {19}Surgery}{65}{chapter.19}%
+\contentsline {chapter}{\numberline {19}Esophagectomy}{65}{chapter.19}%
 \contentsline {subsection}{\numberline {19.0.1}Preoperative Evaluation}{66}{subsection.19.0.1}%
 \contentsline {section}{\numberline {19.1}Minimally-invasive Esophagectomy}{66}{section.19.1}%
 \contentsline {section}{\numberline {19.2}Transthoracic}{66}{section.19.2}%
@@ -74,8 +73,13 @@
 \contentsline {chapter}{\numberline {26}Locally-Advanced Gastric}{81}{chapter.26}%
 \contentsline {section}{\numberline {26.1}Preoperative Chemotherapy}{81}{section.26.1}%
 \contentsline {section}{\numberline {26.2}Postoperative chemotherapy}{82}{section.26.2}%
-\contentsline {chapter}{\numberline {27}Locally Advanced Gastric Ca}{83}{chapter.27}%
-\contentsline {section}{\numberline {27.1}Postoperative chemoradiation}{83}{section.27.1}%
-\contentsline {section}{\numberline {27.2}Preoperative chemoradiation}{83}{section.27.2}%
-\contentsline {chapter}{\numberline {28}Neoadjuvant Chemotherapy for colon cancer}{85}{chapter.28}%
-\contentsline {chapter}{\numberline {29}Extended Node dissection for colon cancer}{87}{chapter.29}%
+\contentsline {section}{\numberline {26.3}Postoperative chemoradiation}{82}{section.26.3}%
+\contentsline {section}{\numberline {26.4}Preoperative chemoradiation}{82}{section.26.4}%
+\contentsline {part}{Colon Cancer Cancer}{85}{part*.6}%
+\contentsline {chapter}{\numberline {27}Colectomy}{85}{chapter.27}%
+\contentsline {section}{\numberline {27.1}Extended Node dissection}{85}{section.27.1}%
+\contentsline {chapter}{\numberline {28}Chemotherapy}{87}{chapter.28}%
+\contentsline {section}{\numberline {28.1}Neoadjuvant Chemotherapy}{87}{section.28.1}%
+\contentsline {chapter}{\numberline {29}Colon Cancer}{89}{chapter.29}%
+\contentsline {section}{\numberline {29.1}Neoadjuvant Chemotherapy for colon cancer}{89}{section.29.1}%
+\contentsline {section}{\numberline {29.2}Extended Node dissection for colon cancer}{89}{section.29.2}%
