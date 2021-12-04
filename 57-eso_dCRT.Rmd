@@ -4,7 +4,8 @@
 
 Experience with patients who refuse surgery or are medically unfit:
 
-[@taketa300] [@taketa95] [@furlong107]
+MD Anderson report of 61 patients out of 622 tri-modality-eligible patients who refused surgery after cCR.  5-year overall survival was 58%.  13 developped local recurrence during surveillance, and 12 had successful salvage esophagectomy [@taketa300]. The same group compared those who underwent surgery vs definitive chemoradiation in a propensity-matched fashion[@taketa95]. Irish study of 56 patients aged 70 or older treated with neoadjuvant chemoradiation followed by selective surgery.  Median survival was 28 months overall, 47 months for those with cCR, 61 months for primary resection, 46 monhts for cCRs who did not undergo resection, and 29 months for those with salvage esophagectomy[@furlong107].
+
 
 Castoro[@castoro1375]
 
