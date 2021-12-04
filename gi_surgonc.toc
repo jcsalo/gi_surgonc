@@ -7,7 +7,7 @@
 \contentsline {section}{\numberline {1.6}Operative Logs}{6}{section.1.6}%
 \contentsline {section}{\numberline {1.7}Case Assignment}{6}{section.1.7}%
 \contentsline {section}{\numberline {1.8}Clinic}{6}{section.1.8}%
-\contentsline {section}{\numberline {1.9}Work Hours}{7}{section.1.9}%
+\contentsline {section}{\numberline {1.9}Work Hours}{6}{section.1.9}%
 \contentsline {chapter}{\numberline {2}Inpatient}{9}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Admissions}{9}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Rounds}{9}{section.2.2}%
@@ -34,7 +34,7 @@
 \contentsline {chapter}{\numberline {15}Localized Tumors}{55}{chapter.15}%
 \contentsline {section}{\numberline {15.1}T1b Tumors}{55}{section.15.1}%
 \contentsline {section}{\numberline {15.2}T2N0 Tumors}{55}{section.15.2}%
-\contentsline {section}{\numberline {15.3}Staging of T2N0 Tumors}{56}{section.15.3}%
+\contentsline {section}{\numberline {15.3}Staging of T2N0 Tumors}{55}{section.15.3}%
 \contentsline {chapter}{\numberline {16}Locally Advanced Cancer}{57}{chapter.16}%
 \contentsline {section}{\numberline {16.1}Trimodality Therapy}{57}{section.16.1}%
 \contentsline {subsection}{\numberline {16.1.1}Neoadjuvant chemoRT for SCCA}{58}{subsection.16.1.1}%
