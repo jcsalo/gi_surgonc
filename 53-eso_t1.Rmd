@@ -1,4 +1,4 @@
-# Superficial Esophageal Cancer {#superficial}
+# Superficial EsoCa {#superficial}
 
 Superficial esophageal cancer is usually asymptomatic, which means that the diagnosis is generally made in the context of surveillance for Barrett's esophagus.
 

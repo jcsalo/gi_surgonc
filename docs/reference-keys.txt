@@ -21,7 +21,7 @@ discharges
 student-emr-notes-policy
 colorectal-cases---hill
 cv_port_salo
-lap-jejunostomy-salo
+lap-jejunostomy
 lap_gastrostomy_salo
 esophagectomy-one-stage
 EsoIntro
@@ -55,15 +55,10 @@ eso_metastatic
 palliative-radiation
 chemoradiation-vs-chemotherapy-in-stage-iv
 stents-for-malignant-disease
-eso_surveillance
-t1a-treated-with-endoscopic-resection
-tib-treated-with-endoscoic-resection
-t1b-treated-with-esophagectomy
-stage-ii-or-iii-treated-with-chemoradiation.
-locally-advanced-treated-with-trimodality-therapy
 eso_survivorship
 nutritional-consequences
 cardiac-toxicity-of-radiation
+eso_surveillance
 gastric-overview
 gast_superficial
 locally-advanced-gastric

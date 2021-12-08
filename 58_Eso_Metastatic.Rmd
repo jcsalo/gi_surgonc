@@ -1,4 +1,4 @@
-# Metastatic {#eso_metastatic}
+# Metastatic EsoCa{#eso_metastatic}
 
 ## Palliative radiation
 
@@ -11,7 +11,7 @@ Radiation along favored over chemoradiation in the palliaitve setting [@pennimen
 
 [@guttmann1131]
 
-# Stents for malignant disease
+## Stents for malignant disease
 
 [@vakil1791]
 

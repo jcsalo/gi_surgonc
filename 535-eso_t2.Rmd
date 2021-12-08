@@ -1,4 +1,4 @@
-# Localized Tumors {#localized}
+# Localized EsoCa {#localized}
 
 ## T1b Tumors
 

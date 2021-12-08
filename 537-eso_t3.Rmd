@@ -1,4 +1,4 @@
-# Locally Advanced Cancer {#locally_advanced}
+# Locally Advanced EsoCa {#locally_advanced}
 
 Tumors that are T2N^+^M0 or T3NxM0 are considered locally-advanced.  The high rate of failure with surgery alone has led to development of adjunctive therapies.
 

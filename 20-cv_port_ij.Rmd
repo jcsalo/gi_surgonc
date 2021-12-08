@@ -11,7 +11,7 @@ output:
 
 # (PART\*) Salo OR {-}
 
-# Central Venous Port (IJ) – Salo {#cv_port_salo}
+# Central Venous Port (IJ){#cv_port_salo}
 
 **Room Prep**
 
