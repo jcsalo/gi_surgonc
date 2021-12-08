@@ -1,5 +1,5 @@
 
-This is a brief overview of staging and treatement of esophageal and gastroesophageal junction tumors.
+Orientation manual for GI Surgical Oncology Service at Atrium Health
 
 
 Jonathan C Salo MD
