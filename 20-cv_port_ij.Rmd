@@ -18,7 +18,7 @@ output:
 - Slider bed (Skytron 3600B) with head section
 - C-Arm
   - Radiology technician alerted to need for C-Arm
-  - Will need lead apnd thyroid shields for everyon in room
+  - Will need lead and thyroid shields for everyone in room
 - BK Ultrasound with hockey-stick probe near patient’s RIGHT SHOULDER
 
 **Instruments**
@@ -35,14 +35,16 @@ output:
     - If general anesthesia: Marcaine 0.5% with epinephrine
     - If MAC: Xylocains 1% with epinephrine
 - 1000 drape x3 AND blue paper drapes 4 packs of 2 each = 8 total
-- 3-0 Prolene RB-1 double-arm
-- 3-0 Vicryl SH
-- 4-0 Monocryl PS2
+- Suture
+  - 3-0 Prolene RB-1 double-arm
+  - 3-0 Vicryl SH
+  - 4-0 Monocryl PS2
 
 
 **Position**
 
 - Supine with left arm tucked, right arm on armboard at side.
+  - Right arm on armboard in case needed by anesthetist
   - NO shoulder roll
 - Foley catheter: usually NOT required – *check with surgeon*
 - Lower body Bair Hugger from abdomen to feet with  ONE layer of blankets on top of Bair Hugger. Velcro strap on thighs. 
@@ -66,28 +68,30 @@ History of prior central venous lines or ports
 History of neck surgery
 
 **Operation**
-Reverse Trendelenburg
+
+*Reverse Trendelenburg*
 
 Port pocket is constructed 1cm below and parallel to clavicle 3cm long. It is essential that there is no bleeding in the pocket (to avoid a port pocket hematoma).
-Trendelenburg
+
+*Trendelenburg*
 
 Right internal jugular vein is identified and its course cephalad-caudad marked on the skin.
 
-Finder needle (22Ga) passed into IJ. The needle should enter the vein directly beneath the ultrasound probe.
+Finder needle (22Ga) *OR* micropuncture kit passed into IJ. The needle should enter the vein directly beneath the ultrasound probe.
 
-Skin anesthetized and transverse 8mm incision at needle entry site
+Skin anesthetized and transverse 8mm counter-incision made at needle entry site
 
-Respirations held by anesthesia
+*Respiration held by anesthesia*
 
 16Ga needle passed into IJ under sono. It is essential that the vein is scanned up and down by ‘rocking’ the probe to visualize the tip of the needle as it passes inferior.
 
 J Wire passed through 16Ga needle and needle withdrawn
 
-Anesthesia resumes respirations
+*Anesthesia resumes respirations*
 
 Ultrasound used to confirm presence of wire within the vein by scanning up and down.
 
-Level bed
+*Level bed*
 
 Fluoroscopy used to confirm position of wire.  Dilator and sheath inserted under fluoroscopic visualization (‘live’). C-arm backed away off field.
 
@@ -111,5 +115,6 @@ Port sutured to the underlying pectoralis fascia with 2 sutures of 3-0 Prolene, 
 
 The port pocket irrigated and the incision closed with subcutaneous 3-0 Vicryl followed by subcuticular 4-0 Monocryl. The skin is dressed with Dermabond.
 
-Postop Orders
+**Postop Orders**
+
 CXR in recovery to confirm central line placement

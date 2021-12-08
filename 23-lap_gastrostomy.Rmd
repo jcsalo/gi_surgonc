@@ -13,8 +13,8 @@ output:
 
 **Room Prep**
 
--   EGD cart near patient’s LEFT SHOULDER (with ADULT EGD scope)
--   If central venous port is placed at the same time:
+- EGD cart near patient’s LEFT SHOULDER (with ADULT EGD scope)
+- If central venous port is placed at the same time:
   - Slider bed (Skytron 3600B) with head section
   - Radiology technician alerted to need for C-Arm
   - BK Ultrasound with hockey-stick probe near patient’s RIGHT SHOULDER
