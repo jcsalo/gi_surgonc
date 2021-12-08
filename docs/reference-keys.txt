@@ -76,6 +76,3 @@ extended-node-dissection
 chemotherapy
 neoadjuvant-chemotherapy
 retroperitoneal
-colon-cancer
-neoadjuvant-chemotherapy-for-colon-cancer
-extended-node-dissection-for-colon-cancer

@@ -82,6 +82,3 @@
 \contentsline {section}{\numberline {28.1}Neoadjuvant Chemotherapy}{87}{section.28.1}%
 \contentsline {part}{Sarcoma}{91}{part*.7}%
 \contentsline {chapter}{\numberline {29}Retroperitoneal}{91}{chapter.29}%
-\contentsline {chapter}{\numberline {30}Colon Cancer}{93}{chapter.30}%
-\contentsline {section}{\numberline {30.1}Neoadjuvant Chemotherapy for colon cancer}{93}{section.30.1}%
-\contentsline {section}{\numberline {30.2}Extended Node dissection for colon cancer}{93}{section.30.2}%
