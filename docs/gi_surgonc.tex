@@ -4,10 +4,14 @@
 %
 \documentclass[
 ]{book}
+\title{GI Surgical Oncology}
+\author{}
+\date{\vspace{-2.5em}}
+
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -69,15 +73,11 @@
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
 
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
-
-\title{GI Surgical Oncology}
-\author{}
-\date{\vspace{-2.5em}}
 
 \begin{document}
 \maketitle
@@ -278,8 +278,6 @@ The medical problems currently being managed are addressed in the assessment.
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
-& \\
-\midrule
 \endhead
 N & Delirium \\
 & Stroke \\
@@ -400,8 +398,6 @@ The discharge summary documents important events and complications in the postop
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.06}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.94}}@{}}
 \toprule
-& \\
-\midrule
 \endhead
 N & Followup plan for chronic pain management \\
 & Stroke \\
@@ -1404,13 +1400,6 @@ EGD is poor predictor of pCR \citep{sarkaria764}
 
 RTOG 94-05 clinical trial \citep{minsky1167}
 
-\hypertarget{salvage-esophagectomy}{%
-\section{Salvage esophagectomy}\label{salvage-esophagectomy}}
-
-\citep{markar922}
-
-\citep{swisher175}
-
 \hypertarget{esophagectomy}{%
 \chapter{Esophagectomy}\label{esophagectomy}}
 
@@ -1469,6 +1458,13 @@ Higher lymph node yield with MIE vs open approach {[}Kalff{]}
 
 \hypertarget{extended-lymphadenectomy}{%
 \section{Extended lymphadenectomy}\label{extended-lymphadenectomy}}
+
+\hypertarget{salvage-esophagectomy}{%
+\section{Salvage esophagectomy}\label{salvage-esophagectomy}}
+
+\citep{markar922}
+
+\citep{swisher175}
 
 \hypertarget{eso_metastatic}{%
 \chapter{Metastatic}\label{eso_metastatic}}
@@ -1587,9 +1583,9 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
 
 \citep{ajani3953}
 
-\hypertarget{part-colon-cancer-cancer}{%
-\part*{Colon Cancer Cancer}\label{part-colon-cancer-cancer}}
-\addcontentsline{toc}{part}{Colon Cancer Cancer}
+\hypertarget{part-colon-cancer}{%
+\part*{Colon Cancer}\label{part-colon-cancer}}
+\addcontentsline{toc}{part}{Colon Cancer}
 
 \hypertarget{colectomy}{%
 \chapter{Colectomy}\label{colectomy}}
@@ -1611,6 +1607,17 @@ PMID: 31872869 Clinical Trial.
 \section{Neoadjuvant Chemotherapy}\label{neoadjuvant-chemotherapy}}
 
 Seymour MT, Morton D. FOxTROT: an international randomised controlled trial in 1052 patients (pts) evaluating neoadjuvant chemotherapy (NAC) for colon cancer. J Clin Oncol. 2019 May;37(15 Suppl):3504-3504.
+
+\hypertarget{part-sarcoma}{%
+\part*{Sarcoma}\label{part-sarcoma}}
+\addcontentsline{toc}{part}{Sarcoma}
+
+\hypertarget{retroperitoneal}{%
+\chapter{Retroperitoneal}\label{retroperitoneal}}
+
+\textbf{Preop Radiation}
+
+STRASS trial randomized 266 patients to preop radiation followed by surgical resection vs surgery alone. At a median followup of 43 months, there was no difference in recurrence-free survival. Serious adverse affects were more common in the preop radiation group (24\% vs 10\%). One patients in the radiation group died of treatment-related toxicity (gastrocolic fistula), compared with none in the surgery alone group \{bonvalot1366\}. See commentary: \{cardona1257\}
 
 \hypertarget{colon-cancer}{%
 \chapter{Colon Cancer}\label{colon-cancer}}

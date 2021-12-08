@@ -43,7 +43,6 @@ eso_dcrt
 phase-ii-studies
 chemort-vs-trimodality-therapy
 radiation
-salvage-esophagectomy
 esophagectomy
 preoperative-evaluation
 minimally-invasive-esophagectomy
@@ -51,6 +50,7 @@ transthoracic
 transhiatal
 three-hole
 extended-lymphadenectomy
+salvage-esophagectomy
 eso_metastatic
 palliative-radiation
 chemoradiation-vs-chemotherapy-in-stage-iv
@@ -75,6 +75,7 @@ colectomy
 extended-node-dissection
 chemotherapy
 neoadjuvant-chemotherapy
+retroperitoneal
 colon-cancer
 neoadjuvant-chemotherapy-for-colon-cancer
 extended-node-dissection-for-colon-cancer

@@ -1,4 +1,4 @@
-# (PART\*) Colon Cancer Cancer {-}
+# (PART\*) Colon Cancer {-}
 
 # Colectomy
 
