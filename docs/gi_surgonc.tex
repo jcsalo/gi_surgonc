@@ -4,14 +4,10 @@
 %
 \documentclass[
 ]{book}
-\title{GI Surgical Oncology}
-\author{}
-\date{\vspace{-2.5em}}
-
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{iftex}
-\ifPDFTeX
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -73,11 +69,15 @@
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
 
-\ifLuaTeX
+\ifluatex
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
+
+\title{GI Surgical Oncology}
+\author{}
+\date{\vspace{-2.5em}}
 
 \begin{document}
 \maketitle
@@ -278,6 +278,8 @@ The medical problems currently being managed are addressed in the assessment.
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
+& \\
+\midrule
 \endhead
 N & Delirium \\
 & Stroke \\
@@ -338,6 +340,8 @@ Discharge appointments are made by sending a message in Canopy the evening prior
   Verona Jordan (Hill) OR Marsha Sukhdeo (Salo and Squires)
 \item
   Stefanie Olson (Hill) OR Kendra Zacharias (Salo and Squires)
+\item
+  Brenda Prieto
 \end{itemize}
 
 Please include the following information in the Canopy Message:
@@ -404,6 +408,8 @@ The discharge summary documents important events and complications in the postop
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.06}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.94}}@{}}
 \toprule
+& \\
+\midrule
 \endhead
 N & Followup plan for chronic pain management \\
 & Stroke \\
