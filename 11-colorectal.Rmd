@@ -44,28 +44,31 @@ output:
 - 3L total/first 24hrs
 - Open procedures: No epidural
 
-**Postop Day 0
-Goal-directed fluid administration
-OOB (Dangling not compliant)
-Diet
-Low Residue diet
-Ensure Supplements
-Teaching
-Gum, Mag & Entereg
-Pain Management
-PCA
-Tylenol 1gm q6 ATC
-Gabapentin 300mg TID
-Oxycodone once at night
-Tramadol PRN
-Resume all baseline pain meds
-Home Medications
-Resume all home medications
-No therapeutic anti-coagiation
-Diabetes medicines
-Prefer to resume all
-Sliding-scale insulin if needed
-Postop Day 1
+**Postop Day 0**
+
+- Goal-directed fluid administration
+- OOB (Dangling not compliant)
+- Diet
+  - Low Residue diet
+  - Ensure Supplements
+- Teaching
+- Gum, Mag & Entereg
+- Pain Management
+  - PCA
+  - Tylenol 1gm q6 ATC
+  - Gabapentin 300mg TID
+  - Oxycodone once at night
+  - Tramadol PRN
+  - Resume all baseline pain meds
+- Home Medications
+  - Resume all home medications
+  - No therapeutic anti-coagiation
+  - Diabetes medicines
+    - Prefer to resume all
+    - Sliding-scale insulin if needed
+
+**Postop Day 1**
+
 Labs: K+ and CBC only
 d/c “pre” plan & colon visit
 Heparin lock IV
