@@ -24,8 +24,9 @@ Review Clinical Information
 
 Stentor open with initial PET scan (for surgical planning)
 Review initial endoscopy report with attention to:
-most cephalad extend of Barrett’s esophagus
-invasion of tumor into gastric cardia and lesser curvature of stomach
+
+-   Most cephalad extend of Barrett’s esophagus
+-   Invasion of tumor into gastric cardia and lesser curvature of stomach
 
 **Anesthesia**
 

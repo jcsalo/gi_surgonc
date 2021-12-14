@@ -24,14 +24,16 @@ Discharge appointments are made by sending a message in Canopy the evening prior
 - Verona Jordan (Hill) OR Marsha Sukhdeo (Salo and Squires)
 - Stefanie Olson (Hill) OR Kendra Zacharias (Salo and Squires)
 - Brenda Prieto
+- Brnadon Galloway
 
 Please include the following information in the Canopy Message:
 
+- Name of attending
 - Ward from which the patient is being discharged
 - Desired date for appointment
 - Need for Wound Ostomy RN appointment at same time (essential for new stomas)
 - Need for bloodwork at first visit
-- Other studies to be done same-day
+- Other studies to be done after discharge
   - Upper GI
   - Chest X-ray
   - Modified Barium Swallow
@@ -63,13 +65,13 @@ The discharge summary documents important events and complications in the postop
 |----|-----------------------------------------------------------------|
 | N  | Followup plan for chronic pain management                  |
 |    | Stroke                                                         |
-| CV | Complications: (Arrhythmia \| MI \| CHF)                                          |
+| CV | Postop Arrhythmia? \| MI? \| CHF?                                          |
 |    | If new cardiac meds: Who is managing medications               |
 |    | If afib: CHADS score and anticoagulation plan              |
-| R  | Complications (Pneumonia \| ARDS \|  TRACH ) |
+| R  | Pneumonia? \| ARDS? \|  TRACH? |
 |    | Need for home oxygen?                                          |
 |    | CXR needed at first postop visit?                                                  |
-|GI	|Complications: (delayed gastric emptying \| leak \| ileus)|
+|GI	|Delayed gastric emptying? \| leak? \| ileus?|
 |    |Tube feed regimen|
 |     |Diet at discharge (Low residue \| Full liquds \| Meds with thickened water \|NPO)|
 |   |New stoma (ileostomy \| colostomy)|
@@ -78,7 +80,7 @@ The discharge summary documents important events and complications in the postop
 |  |Discharge with foley catheter|
 |H	|Complications: DVT \| PE|
 |   |Anticoagulation Plan|
-|Endo|Insulin regimen at discharge (dose will be in med rec)|
+|Endo|Insulin regimen at DC (dose will be in med rec)|
 |ID|Antibiotics at DC|
 ||Return to ICU|
 
