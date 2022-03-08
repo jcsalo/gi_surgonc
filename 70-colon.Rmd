@@ -19,7 +19,7 @@ CEA should be routinely checked prior to surgery
 
 ## PET scan
 
-PET is not recommended routinely for evaluation of colon cancer.[@you1911]
+PET is not recommended routinely for evaluation of colon cancer.[@vogel148]
 
 ### Indications for PET in colorectal cancer:
 
