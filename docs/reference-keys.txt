@@ -92,3 +92,9 @@ colectomy-1
 extended-node-dissection-1
 chemotherapy-1
 neoadjuvant-chemotherapy-1
+colon-cancer-staging
+ct-scan
+pet-scan
+indications-for-pet-in-colorectal-cancer
+resources
+cea-level
