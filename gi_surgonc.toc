@@ -88,15 +88,16 @@
 \contentsline {chapter}{\numberline {30}Gastric Carcinoids}{111}{chapter.30}%
 \contentsline {chapter}{\numberline {31}GI Stromal Tumors}{113}{chapter.31}%
 \contentsline {part}{Colorectal Cancer}{117}{part*.7}%
-\contentsline {chapter}{\numberline {32}Colon Cancer Staging}{119}{chapter.32}%
-\contentsline {section}{\numberline {32.1}CEA level}{119}{section.32.1}%
-\contentsline {section}{\numberline {32.2}CT Scan}{119}{section.32.2}%
-\contentsline {section}{\numberline {32.3}PET scan}{119}{section.32.3}%
-\contentsline {subsection}{\numberline {32.3.1}Indications for PET in colorectal cancer:}{119}{subsection.32.3.1}%
-\contentsline {chapter}{\numberline {33}Colectomy}{121}{chapter.33}%
-\contentsline {section}{\numberline {33.1}Extended Node dissection}{121}{section.33.1}%
-\contentsline {chapter}{\numberline {34}Chemotherapy}{123}{chapter.34}%
-\contentsline {section}{\numberline {34.1}Neoadjuvant Chemotherapy}{123}{section.34.1}%
-\contentsline {chapter}{\numberline {35}Rectal Cancer}{125}{chapter.35}%
+\contentsline {chapter}{\numberline {32}Colorectal Overview}{117}{chapter.32}%
+\contentsline {chapter}{\numberline {33}Colon Cancer Staging}{119}{chapter.33}%
+\contentsline {section}{\numberline {33.1}CEA level}{119}{section.33.1}%
+\contentsline {section}{\numberline {33.2}CT Scan}{119}{section.33.2}%
+\contentsline {section}{\numberline {33.3}PET scan}{119}{section.33.3}%
+\contentsline {subsection}{\numberline {33.3.1}Indications for PET in colorectal cancer:}{119}{subsection.33.3.1}%
+\contentsline {chapter}{\numberline {34}Colectomy}{121}{chapter.34}%
+\contentsline {section}{\numberline {34.1}Extended Node dissection}{121}{section.34.1}%
+\contentsline {chapter}{\numberline {35}Chemotherapy}{123}{chapter.35}%
+\contentsline {section}{\numberline {35.1}Neoadjuvant Chemotherapy}{123}{section.35.1}%
+\contentsline {chapter}{\numberline {36}Rectal Cancer}{125}{chapter.36}%
 \contentsline {part}{Sarcoma}{129}{part*.8}%
-\contentsline {chapter}{\numberline {36}Retroperitoneal}{129}{chapter.36}%
+\contentsline {chapter}{\numberline {37}Retroperitoneal}{129}{chapter.37}%
