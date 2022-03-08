@@ -86,3 +86,9 @@ extended-node-dissection
 chemotherapy
 neoadjuvant-chemotherapy
 retroperitoneal
+diagnosis
+ge-junction-classification
+colectomy-1
+extended-node-dissection-1
+chemotherapy-1
+neoadjuvant-chemotherapy-1

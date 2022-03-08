@@ -1,3 +1,12 @@
 # (PART\*) Gastric Cancer {-}
 
 # Gastric Overview
+
+## GE junction classification
+
+GE junction adenocarcioma is classified according to Siewert
+
+![unchanged image](images/siewert.png)
+![much-smaller image](images/siewert.png){#id .class width=30 height=20px}
+![half-size image](images/siewert.png){#id .class width=50% height=50%}
+
